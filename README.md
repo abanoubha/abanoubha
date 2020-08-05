@@ -14,3 +14,8 @@
 | Windows | Portable POS |
 | Mac | Portable POS |
 | iOS | Portable POS |
+
+## Great Resources & Docs & Libs
+- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+- [richeditor-android](https://github.com/wasabeef/richeditor-android)
+- [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
