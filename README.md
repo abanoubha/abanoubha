@@ -19,3 +19,14 @@
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 - [richeditor-android](https://github.com/wasabeef/richeditor-android)
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
+- [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
+- [booster](https://github.com/didi/booster)
+- [android-image-picker](https://github.com/esafirm/android-image-picker)
+- [billy](https://github.com/premium-minds/billy)
+- [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo)
+- [MediaPicker](https://github.com/alhazmy13/MediaPicker)
+- [VideoCompressor](https://github.com/fishwjy/VideoCompressor)
+- [tview](https://github.com/rivo/tview) : Rich Interactive Widgets for Terminal UIs
+- [pdfcpu](https://github.com/pdfcpu/pdfcpu) : Go PDF processor
+- [Java-FPDF](https://github.com/nkiraly/Java-FPDF) : Java port of PHP FPDF library from https://www.fpdf.org
+- [gorush](https://github.com/appleboy/gorush) : A push notification server written in Go
