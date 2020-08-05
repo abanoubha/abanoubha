@@ -46,3 +46,4 @@
 - [tesseractfonts](https://github.com/dhivehi/tesseractfonts) : This repository is meant to be a starting point to fine tune tesseract for new fonts
 - [httpsify](https://github.com/alash3al/httpsify) : a transparent HTTPS termination proxy using letsencrypt with auto certification renewal
 - [closer](https://github.com/xlab/closer) : Package closer ensures a clean exit for your Go app
+- [android opencv camera scanner](https://github.com/aashari/android-opencv-camera-scanner)
