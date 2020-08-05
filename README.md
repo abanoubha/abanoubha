@@ -17,6 +17,7 @@
 
 ## Great Resources & Docs & Libs
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+- [awesome-android-performance](https://github.com/Juude/awesome-android-performance) : Android performance optimization tutorials, videos and tools list
 - [richeditor-android](https://github.com/wasabeef/richeditor-android)
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
 - [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
