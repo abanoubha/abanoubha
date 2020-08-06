@@ -16,12 +16,20 @@
 | iOS | Portable POS |
 
 ## Awesome Resources & Docs & Libs
-#[android ui](https://github.com/wasabeef/awesome-android-ui)
+|Awesome Lists|
+|:---:|:---:|:---:|:---:|:---:|
+|
+[android ui](https://github.com/wasabeef/awesome-android-ui)
+|
 [android performance](https://github.com/Juude/awesome-android-performance)
+|
 [android](https://github.com/JStumpp/awesome-android)
+|
+[laravel](https://github.com/chiraggude/awesome-laravel)
+|
+[php](https://github.com/ziadoz/awesome-php)
+|
 
-- [awesome-laravel](https://github.com/chiraggude/awesome-laravel)
-- [awesome-php](https://github.com/ziadoz/awesome-php)
 - [vim-galore : All Things VIM](https://github.com/mhinz/vim-galore)
 - [awesome design systems](https://github.com/alexpate/awesome-design-systems)
 - [htaccess snippets](https://github.com/phanan/htaccess)
