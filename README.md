@@ -108,6 +108,8 @@
 |
 [Kotlin databinding samples](https://github.com/android/databinding-samples)
 |
+[wave loading drawable](https://github.com/race604/WaveLoading)
+|
 
 ### Go Libs & Pkgs
 
