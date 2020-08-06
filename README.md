@@ -16,8 +16,8 @@
 | iOS | Portable POS |
 
 ## Awesome Resources & Docs & Libs
-|Awesome Lists|
-|:---:|:---:|:---:|:---:|:---:|
+|
+Awesome Lists
 |
 [android ui](https://github.com/wasabeef/awesome-android-ui)
 |
@@ -29,27 +29,44 @@
 |
 [php](https://github.com/ziadoz/awesome-php)
 |
-
-- [vim-galore : All Things VIM](https://github.com/mhinz/vim-galore)
-- [awesome design systems](https://github.com/alexpate/awesome-design-systems)
-- [htaccess snippets](https://github.com/phanan/htaccess)
-- [awesome design](https://github.com/gztchan/awesome-design)
-- [Go patterns](https://github.com/tmrts/go-patterns)
-- [CSS protips](https://github.com/AllThingsSmitty/css-protips)
-- [awesome vscode](https://github.com/viatsko/awesome-vscode)
-- [awesome docker](https://github.com/veggiemonk/awesome-docker)
-- [awesome Java](https://github.com/akullpp/awesome-java)
-- [awesome Flutter](https://github.com/Solido/awesome-flutter)
-- [awesome Go](https://github.com/avelino/awesome-go)
-- [awesome web performance optimization](https://github.com/davidsonfellipe/awesome-wpo)
-- [awesome chrome devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
-- [awesome bash scripts](https://github.com/awesome-lists/awesome-bash)
-- [awesome cmake](https://github.com/onqtam/awesome-cmake)
-- [awesome CSS](https://github.com/awesome-css-group/awesome-css)
-- [awesome Go storage](https://github.com/gostor/awesome-go-storage)
-- [awesome REST API](https://github.com/marmelab/awesome-rest)
-- [awesome Rust](https://github.com/rust-unofficial/awesome-rust)
-- 
+[vim-galore : All Things VIM](https://github.com/mhinz/vim-galore)
+|
+[design systems](https://github.com/alexpate/awesome-design-systems)
+|
+[htaccess snippets](https://github.com/phanan/htaccess)
+|
+[design](https://github.com/gztchan/awesome-design)
+|
+[Go patterns](https://github.com/tmrts/go-patterns)
+|
+[CSS protips](https://github.com/AllThingsSmitty/css-protips)
+|
+[vscode](https://github.com/viatsko/awesome-vscode)
+|
+[docker](https://github.com/veggiemonk/awesome-docker)
+|
+[Java](https://github.com/akullpp/awesome-java)
+|
+[Flutter](https://github.com/Solido/awesome-flutter)
+|
+[Go](https://github.com/avelino/awesome-go)
+|
+[web performance optimization](https://github.com/davidsonfellipe/awesome-wpo)
+|
+[chrome devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+|
+[bash scripts](https://github.com/awesome-lists/awesome-bash)
+|
+[cmake](https://github.com/onqtam/awesome-cmake)
+|
+[CSS](https://github.com/awesome-css-group/awesome-css)
+|
+[Go storage](https://github.com/gostor/awesome-go-storage)
+|
+[REST API](https://github.com/marmelab/awesome-rest)
+|
+[Rust](https://github.com/rust-unofficial/awesome-rust)
+|
 
 
 - [richeditor-android](https://github.com/wasabeef/richeditor-android)
