@@ -148,3 +148,9 @@
 |
 [tesseractfonts](https://github.com/dhivehi/tesseractfonts) : fine tune tesseract for new fonts
 |
+
+### Linux Dev
+
+|
+[granite](https://github.com/elementary/granite)
+|
