@@ -8,7 +8,7 @@
 
 |Platform|Apps|
 |:---:|:---:|
-| Android | [Arabic OCR](https://galaxy.store/ocrapp) &nbsp; QR Code / Barcode Reader &nbsp; OCRit &nbsp; Coding Cheatsheets &nbsp; Portable POS |
+| Android | [Arabic OCR](https://galaxy.store/ocrapp) &nbsp; QR Code / Barcode Reader &nbsp; [OCRit](https://galaxy.store/ocrit) &nbsp; Coding Cheatsheets &nbsp; Portable POS |
 | Web | [Abanoub Blog](https://www.abanoubhanna.com) &nbsp; [learns7.com](https://learns7.com) &nbsp; Portable POS|
 | Linux | [Portable POS](https://github.com/abanoub-hanna/gtk-pos) |
 | Windows | Portable POS |
