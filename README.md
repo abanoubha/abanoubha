@@ -15,10 +15,11 @@
 | Mac | Portable POS |
 | iOS | Portable POS |
 
-## Great Resources & Docs & Libs
-- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
-- [awesome-android-performance](https://github.com/Juude/awesome-android-performance)
-- [awesome-android](https://github.com/JStumpp/awesome-android)
+## Awesome Resources & Docs & Libs
+[android ui](https://github.com/wasabeef/awesome-android-ui)
+[android performance](https://github.com/Juude/awesome-android-performance)
+[android](https://github.com/JStumpp/awesome-android)
+
 - [awesome-laravel](https://github.com/chiraggude/awesome-laravel)
 - [awesome-php](https://github.com/ziadoz/awesome-php)
 - [vim-galore : All Things VIM](https://github.com/mhinz/vim-galore)
@@ -33,6 +34,14 @@
 - [awesome Flutter](https://github.com/Solido/awesome-flutter)
 - [awesome Go](https://github.com/avelino/awesome-go)
 - [awesome web performance optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- [awesome chrome devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+- [awesome bash scripts](https://github.com/awesome-lists/awesome-bash)
+- [awesome cmake](https://github.com/onqtam/awesome-cmake)
+- [awesome CSS](https://github.com/awesome-css-group/awesome-css)
+- [awesome Go storage](https://github.com/gostor/awesome-go-storage)
+- [awesome REST API](https://github.com/marmelab/awesome-rest)
+- [awesome Rust](https://github.com/rust-unofficial/awesome-rust)
+- 
 
 
 - [richeditor-android](https://github.com/wasabeef/richeditor-android)
