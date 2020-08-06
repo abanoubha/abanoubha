@@ -68,6 +68,8 @@
 |
 [Rust](https://github.com/rust-unofficial/awesome-rust)
 |
+[gtk](https://github.com/myfreeweb/awesome-gtk)
+|
 
 ### Android Libs
 
