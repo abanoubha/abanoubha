@@ -134,7 +134,7 @@
 ### PHP
 
 |
-[parsedown](https://github.com/erusev/parsedown) : Better Markdown Parser in PHP
+[parsedown](https://github.com/erusev/parsedown) : Markdown Parser in PHP
 |
 
 ### Tesseract & OCR
@@ -144,5 +144,5 @@
 |
 [train tesseract ocr](https://github.com/abanoub-hanna/train-tesseract-ocr)
 |
-[tesseractfonts](https://github.com/dhivehi/tesseractfonts) : This repository is meant to be a starting point to fine tune tesseract for new fonts
+[tesseractfonts](https://github.com/dhivehi/tesseractfonts) : fine tune tesseract for new fonts
 |
