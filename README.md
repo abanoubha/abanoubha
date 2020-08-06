@@ -16,11 +16,25 @@
 | iOS | Portable POS |
 
 ## Great Resources & Docs & Libs
-- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) : A curated list of awesome Android UI/UX libraries
-- [awesome-android-performance](https://github.com/Juude/awesome-android-performance) : Android performance optimization tutorials, videos and tools list
-- [awesome-android](https://github.com/JStumpp/awesome-android) : A curated list of awesome Android packages and resources
-- [awesome-laravel](https://github.com/chiraggude/awesome-laravel) : A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
-- [awesome-php](https://github.com/ziadoz/awesome-php) : A curated list of amazingly awesome PHP libraries, resources and shiny things
+- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+- [awesome-android-performance](https://github.com/Juude/awesome-android-performance)
+- [awesome-android](https://github.com/JStumpp/awesome-android)
+- [awesome-laravel](https://github.com/chiraggude/awesome-laravel)
+- [awesome-php](https://github.com/ziadoz/awesome-php)
+- [vim-galore : All Things VIM](https://github.com/mhinz/vim-galore)
+- [awesome design systems](https://github.com/alexpate/awesome-design-systems)
+- [htaccess snippets](https://github.com/phanan/htaccess)
+- [awesome design](https://github.com/gztchan/awesome-design)
+- [Go patterns](https://github.com/tmrts/go-patterns)
+- [CSS protips](https://github.com/AllThingsSmitty/css-protips)
+- [awesome vscode](https://github.com/viatsko/awesome-vscode)
+- [awesome docker](https://github.com/veggiemonk/awesome-docker)
+- [awesome Java](https://github.com/akullpp/awesome-java)
+- [awesome Flutter](https://github.com/Solido/awesome-flutter)
+- [awesome Go](https://github.com/avelino/awesome-go)
+- [awesome web performance optimization](https://github.com/davidsonfellipe/awesome-wpo)
+
+
 - [richeditor-android](https://github.com/wasabeef/richeditor-android)
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
 - [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
