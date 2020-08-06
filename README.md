@@ -16,7 +16,7 @@
 | iOS | Portable POS |
 
 ## Awesome Resources & Docs & Libs
-[android ui](https://github.com/wasabeef/awesome-android-ui)
+#[android ui](https://github.com/wasabeef/awesome-android-ui)
 [android performance](https://github.com/Juude/awesome-android-performance)
 [android](https://github.com/JStumpp/awesome-android)
 
