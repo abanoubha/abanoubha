@@ -110,6 +110,8 @@
 |
 [wave loading drawable](https://github.com/race604/WaveLoading)
 |
+[styleable progress view](https://github.com/WhiteDG/ProgressView)
+|
 
 ### Go Libs & Pkgs
 
