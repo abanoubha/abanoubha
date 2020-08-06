@@ -140,6 +140,8 @@
 |
 [closer](https://github.com/xlab/closer) : Package closer ensures a clean exit for your Go app
 |
+[astranet : manage highly concurrent independent network streams](https://github.com/zenhotels/astranet)
+|
 
 ### PHP
 
