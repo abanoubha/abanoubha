@@ -112,6 +112,8 @@
 |
 [styleable progress view](https://github.com/WhiteDG/ProgressView)
 |
+[GraphView](https://github.com/jjoe64/GraphView)
+|
 
 ### Go Libs & Pkgs
 
