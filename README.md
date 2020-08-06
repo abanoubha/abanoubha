@@ -98,6 +98,8 @@
 |
 [android opencv camera scanner](https://github.com/aashari/android-opencv-camera-scanner)
 |
+[fancy circular progress view w/ animation](https://github.com/zekapp/Android-ProgressViews)
+|
 
 ### Go Libs & Pkgs
 
