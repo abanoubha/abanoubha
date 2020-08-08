@@ -11,7 +11,7 @@
 | Android | [Arabic OCR](https://galaxy.store/ocrapp) &nbsp; QR Code / Barcode Reader &nbsp; [OCRit](https://galaxy.store/ocrit) &nbsp; Coding Cheatsheets &nbsp; Portable POS |
 | Web | [Abanoub Blog](https://www.abanoubhanna.com) &nbsp; [learns7.com](https://learns7.com) &nbsp; Portable POS|
 | Linux | [Portable POS](https://github.com/abanoub-hanna/gtk-pos) &nbsp; [go-ocr](https://github.com/abanoub-hanna/go-ocr) |
-| Windows | Portable POS &nbsp; [go-ocr](https://github.com/abanoub-hanna/go-ocr) |
+| Windows | Portable POS &nbsp; [go-ocr](https://github.com/abanoub-hanna/go-ocr) &nbsp; [Library Management](https://github.com/abanoub-hanna/libmgmt) |
 | Mac | Portable POS &nbsp; [go-ocr](https://github.com/abanoub-hanna/go-ocr) |
 | iOS | Portable POS |
 
