@@ -70,6 +70,10 @@
 |
 [gtk](https://github.com/myfreeweb/awesome-gtk)
 |
+[Hugo](https://github.com/theNewDynamic/awesome-hugo)
+|
+[wordpress](https://github.com/miziomon/awesome-wordpress)
+|
 
 ### Android Libs
 
