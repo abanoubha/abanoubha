@@ -8,7 +8,7 @@
 
 |Platform|Apps|
 |:---:|:---:|
-| Android | [Arabic OCR](https://galaxy.store/ocrapp) &nbsp; [QR Code / Barcode Reader](https://github.com/abanoub-hanna/qr-scanner) &nbsp; [OCRit](https://galaxy.store/ocrit) &nbsp; Coding Cheatsheets &nbsp; Portable POS &nbsp; [IMG2TXT : English & Arabic OCR Android app](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt) &nbsp; [IMG2TXT Persian OCR app](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian) &nbsp; [Pope Shenouda books](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks) |
+| Android | [Arabic OCR](https://appgallery.huawei.com/#/app/C102909069) &nbsp; [QR Code / Barcode Reader](https://github.com/abanoub-hanna/qr-scanner) &nbsp; [ IMG2TXT OCR](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin) &nbsp; Coding Cheatsheets &nbsp; Portable POS &nbsp; [IMG2TXT : English & Arabic OCR Android app](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt) &nbsp; [IMG2TXT Persian OCR app](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian) &nbsp; [IMG2TXT Hindi OCR](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi) &nbsp; [Pope Shenouda books](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks) |
 | Web | [Abanoub Blog](https://www.abanoubhanna.com) &nbsp; [learns7.com](https://learns7.com) &nbsp; Portable POS|
 | Linux | [Portable POS](https://github.com/abanoub-hanna/gtk-pos) &nbsp; [go-ocr](https://github.com/abanoub-hanna/go-ocr) |
 | Windows | Portable POS &nbsp; [go-ocr](https://github.com/abanoub-hanna/go-ocr) &nbsp; [Library Management](https://github.com/abanoub-hanna/libmgmt) |
@@ -121,6 +121,8 @@
 
 ### Go Libs & Pkgs
 
+|
+[gio](https://github.com/gioui/gio) : best (IMHO) cross-platform GUI in Go
 |
 [tview](https://github.com/rivo/tview) : Rich Interactive Widgets for Terminal UIs
 |
