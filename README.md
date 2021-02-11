@@ -15,7 +15,7 @@
 | Mac | Portable POS &nbsp; [go-ocr](https://github.com/abanoub-hanna/go-ocr) |
 | iOS | Portable POS |
 
-* developed core utilities of v1 only
+ * developed core utilities of v1 only
 
 ## Awesome Resources & Docs & Libs
 
