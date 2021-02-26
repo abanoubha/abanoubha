@@ -164,6 +164,8 @@
 |
 [rememberable](https://github.com/dwightwatson/rememberable) : Query caching for Laravel
 |
+[opcache](https://www.php.net/manual/en/opcache.installation.php)
+|
 
 ### Tesseract & OCR
 
