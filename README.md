@@ -157,10 +157,12 @@
 [astranet : manage highly concurrent independent network streams](https://github.com/zenhotels/astranet)
 |
 
-### PHP
+### PHP / Laravel
 
 |
 [parsedown](https://github.com/erusev/parsedown) : Markdown Parser in PHP
+|
+[rememberable](https://github.com/dwightwatson/rememberable) : Query caching for Laravel
 |
 
 ### Tesseract & OCR
