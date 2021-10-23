@@ -4,6 +4,8 @@
 &nbsp;
 [![linkedin badge](https://img.shields.io/badge/linkedin-abanoub_hanna-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abanoub-hanna)
 
+As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) : "If I have seen further it is by standing on the shoulders of Giants". So if you consider my projects helpful, it is by standing on the shoulders of giants — in open source community.
+
 ## Software I Created
 
 |Platform|Apps|
