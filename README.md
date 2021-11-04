@@ -10,14 +10,12 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 
 |Platform|Apps|
 |:---:|:---:|
-| Android | [Arabic OCR](https://appgallery.huawei.com/#/app/C102909069) &nbsp; [QR Code / Barcode Reader](https://github.com/abanoub-hanna/qr-scanner) &nbsp; [ IMG2TXT OCR](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin) &nbsp;  POS App (soon) &nbsp; [IMG2TXT : English & Arabic OCR Android app](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt)* &nbsp; [IMG2TXT Persian OCR app](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian)* &nbsp; [IMG2TXT Hindi OCR](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi)* &nbsp; [Pope Shenouda books](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks) &nbsp; [Digital Business Card](https://kartbusiness.com) |
+| Android | [Arabic OCR](https://appgallery.huawei.com/#/app/C102909069) &nbsp; [QR Code / Barcode Reader](https://github.com/abanoub-hanna/qr-scanner) &nbsp; [ IMG2TXT OCR](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin) &nbsp;  POS App (soon) &nbsp; [IMG2TXT : English & Arabic OCR Android app](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt) &nbsp; [IMG2TXT Persian OCR app](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian) &nbsp; [IMG2TXT Hindi OCR](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi) &nbsp; [Pope Shenouda books](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks) &nbsp; [Digital Business Card](https://kartbusiness.com) |
 | Web | [Abanoub Blog](https://www.abanoubhanna.com) &nbsp; [learns7.com](https://learns7.com) &nbsp; POS App (soon) &nbsp; [sohagstores.com](https://sohagstores.com/) &nbsp; [Digital Business Card](https://kartbusiness.com) |
 | Linux | POS App (soon) &nbsp; OCR App (soon) &nbsp; [Digital Business Card](https://kartbusiness.com) |
 | Windows | POS App (soon) &nbsp; OCR App (soon) &nbsp; [Digital Business Card](https://kartbusiness.com) |
 | Mac | POS App (soon) &nbsp; OCR App (soon) &nbsp; [Digital Business Card](https://kartbusiness.com) |
 | iOS | [Digital Business Card](https://kartbusiness.com) |
-
-\* developed core utilities of v1 only
 
 ## Awesome Resources & Docs & Libs
 
