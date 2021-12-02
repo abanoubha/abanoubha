@@ -8,14 +8,20 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 
 ## Software I Created
 
-|Platform|Apps|
-|:---:|:---:|
-| Android | [Arabic OCR](https://appgallery.huawei.com/#/app/C102909069) &nbsp; [QR Code / Barcode Reader](https://github.com/abanoub-hanna/qr-scanner) &nbsp; [ IMG2TXT OCR](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin) &nbsp;  [POS App](https://github.com/software-pharaoh/pos) &nbsp; [IMG2TXT : English & Arabic OCR Android app](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt) &nbsp; [IMG2TXT Persian OCR app](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian) &nbsp; [IMG2TXT Hindi OCR](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi) &nbsp; [Pope Shenouda books](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks) &nbsp; [Digital Business Card](https://kartbusiness.com) |
-| Web | [Abanoub Blog](https://www.abanoubhanna.com) &nbsp; [learns7.com](https://learns7.com) &nbsp; POS App (soon) &nbsp; [sohagstores.com](https://sohagstores.com/) &nbsp; [Digital Business Card](https://kartbusiness.com) |
-| Linux | [POS App](https://github.com/software-pharaoh/pos) &nbsp; [OCR App](https://github.com/software-pharaoh/ocr) &nbsp; [Digital Business Card](https://kartbusiness.com) |
-| Windows | [POS App](https://github.com/software-pharaoh/pos) &nbsp; [OCR App](https://github.com/software-pharaoh/ocr) &nbsp; [Digital Business Card](https://kartbusiness.com) |
-| Mac | [POS App](https://github.com/software-pharaoh/pos) &nbsp; [OCR App](https://github.com/software-pharaoh/ocr) &nbsp; [Digital Business Card](https://kartbusiness.com) |
-| iOS | [Digital Business Card](https://kartbusiness.com) &nbsp; [POS App](https://github.com/software-pharaoh/pos) &nbsp; [OCR App](https://github.com/software-pharaoh/ocr) |
+- [Arabic OCR - Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069) (Android)
+- [QR Code / Barcode Reader](https://github.com/abanoubhannaazer/qr-scanner) (Android, Open source)
+- [IMG2TXT OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin) (Android)
+- [IMG2TXT : English & Arabic OCR Android app - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt) (Android)
+- [IMG2TXT Persian OCR app - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian) (Android)
+- [IMG2TXT Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi) (Android)
+- [Pope Shenouda books - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks) (Android)
+- [Digital Business Card](https://kartbusiness.com) (Website, Flutter : Android|iOS|iPad|Windows|Linux|Mac, under development)
+- [Abanoub Blog](https://www.abanoubhanna.com) (Website, blog)
+- [learns7.com](https://learns7.com) (Website, blog)
+- [sohagstores.com](https://sohagstores.com/) (Web App, Android - Google Play|AppGallery|Galaxy Store, iOS, Windows 7|8.1|10|11, Linux Flatpak|Snap, Mac OS X)
+- [Agpeya - الأجبية](https://github.com/abanoubhannaazer/agpeya) (Android : [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya)|[AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000)|[Galaxy Store](https://galaxy.store/agpeya), open source)
+- [OCR App](https://github.com/software-pharaoh/ocr) (Open source, under development)
+- [POS App](https://github.com/software-pharaoh/pos) (Open source, under development)
 
 ## Awesome Resources & Docs & Libs
 
