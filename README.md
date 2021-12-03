@@ -9,7 +9,6 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 ## Software I Created
 
 - [Arabic OCR - Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069) (Android)
-- [QR Code / Barcode Reader](https://github.com/abanoubhannaazer/qr-scanner) (Android, Open source)
 - [IMG2TXT OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin) (Android)
 - [IMG2TXT : English & Arabic OCR Android app - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt) (Android)
 - [IMG2TXT Persian OCR app - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian) (Android)
