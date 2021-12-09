@@ -22,6 +22,10 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 - [OCR App](https://github.com/software-pharaoh/ocr) (Open source, under development)
 - [POS App](https://github.com/software-pharaoh/pos) (Open source, under development)
 
+## My Github account statistics
+![github stats](https://github-readme-stats.vercel.app/api?username=abanoubhannaazer&show_icons=true&line_height=24)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubhannaazer&layout=compact&langs_count=8&exclude_repo=flash-experiments)
+
 ## Awesome Resources & Docs & Libs
 
 ### Awesome Lists
