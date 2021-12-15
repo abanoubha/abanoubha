@@ -185,9 +185,3 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 |
 [tesseractfonts](https://github.com/dhivehi/tesseractfonts) : fine tune tesseract for new fonts
 |
-
-### Linux Dev
-
-|
-[granite](https://github.com/elementary/granite)
-|
