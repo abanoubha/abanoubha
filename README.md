@@ -103,6 +103,8 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 |
 [wordpress](https://github.com/miziomon/awesome-wordpress)
 |
+[vite](https://github.com/vitejs/awesome-vite)
+|
 
 ### Android Libs
 
@@ -203,3 +205,11 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 |
 [tesseractfonts](https://github.com/dhivehi/tesseractfonts) : fine tune tesseract for new fonts
 |
+
+### My Chosen Tech Stack
+
+- Go + Gio UI (Desktop GUI)
+- Go (Web)
+- Laravel (~~Legacy~~ Web)
+- Flutter (Mobile & Desktop)
+- Kotlin / Java (~~Legacy~~ Android)
