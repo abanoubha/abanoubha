@@ -14,11 +14,27 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 - [IMG2TXT Persian OCR app - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian) (Android)
 - [IMG2TXT Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi) (Android)
 - [Pope Shenouda books - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks) (Android)
-- [Digital Business Card](https://kartbusiness.com) (Website, Flutter : Android|iOS|iPad|Windows|Linux|Mac, under development)
+- [Digital Business Card](https://kartbusiness.com)
+  - Website
+  - Android Google Play or Huawei AppGallery or Samsung Galaxy Store
+  - iOS / iPad
+  - Windows
+  - Linux flatpak or snap
+  - Mac OS X
 - [Abanoub Blog](https://www.abanoubhanna.com) (Website, blog)
 - [learns7.com](https://learns7.com) (Website, blog)
-- [sohagstores.com](https://sohagstores.com/) (Web App, Android - Google Play|AppGallery|Galaxy Store, iOS, Windows 7|8.1|10|11, Linux Flatpak|Snap, Mac OS X)
-- [Agpeya - الأجبية](https://github.com/abanoubhannaazer/agpeya) (Android : [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya)|[AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000)|[Galaxy Store](https://galaxy.store/agpeya), open source)
+- [sohagstores.com](https://sohagstores.com/)
+  - Website
+  - Google Play
+  - Huawei AppGallery
+  - Samsung Galaxy Store
+  - Windows 7, 8.1, 10, 11
+  - Mac OS X
+  - Linux flatpak or snap
+- [Agpeya - الأجبية](https://github.com/abanoubhannaazer/agpeya) (open source)
+  - [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya)
+  - [AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000)
+  - [Galaxy Store](https://galaxy.store/agpeya)
 - [Go OCR](https://github.com/abanoubhannaazer/go-ocr) (open source, under development)
 - [POS in Go & Gio UI](https://github.com/abanoubhannaazer/pos) (Open source, under development)
 - [POS in Flutter](https://github.com/abanoubhannaazer/posflutter) (Open source, under development)
