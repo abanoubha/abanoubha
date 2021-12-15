@@ -206,10 +206,13 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 [tesseractfonts](https://github.com/dhivehi/tesseractfonts) : fine tune tesseract for new fonts
 |
 
-### My Chosen Tech Stack
+### Tech Stack
 
-- Go + Gio UI (Desktop GUI)
-- Go (Web)
-- Laravel (~~Legacy~~ Web)
-- Flutter (Mobile & Desktop)
-- Kotlin / Java (~~Legacy~~ Android)
+- I prefer
+  - Go + Gio UI (Desktop GUI)
+  - Go (Web)
+  - Flutter (Mobile & Desktop)
+  
+- I worked with
+  - Kotlin or Java (Android)
+  - Laravel (Web)
