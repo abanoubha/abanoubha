@@ -206,13 +206,19 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 [tesseractfonts](https://github.com/dhivehi/tesseractfonts) : fine tune tesseract for new fonts
 |
 
+### starter templates / boilerplate
+
+- [vite starter template](https://github.com/antfu/vitesse)
+
 ### Tech Stack
 
 - I prefer
-  - Go + Gio UI (Desktop GUI)
-  - Go (Web)
-  - Flutter (Mobile & Desktop)
+  - [Go](https://github.com/golang/go) + [Gio](https://github.com/gioui/gio) UI (Desktop GUI)
+  - [Go](https://github.com/golang/go) + [Fiber](https://github.com/gofiber/fiber) / [Gin](https://github.com/gin-gonic/gin) (Web) (...[more frameworks](https://github.com/avelino/awesome-go#web-frameworks))
+  - [Flutter](https://github.com/flutter) (Mobile & Desktop)
   
 - I worked with
   - Kotlin or Java (Android)
   - Laravel (Web)
+  - Vala + GTK (Linux Native Applications)
+  - Hugo SSG (static site generator) for tech blogging
