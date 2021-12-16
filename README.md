@@ -168,7 +168,7 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 
 - I prefer
   - [Go](https://github.com/golang/go) + [Gio](https://github.com/gioui/gio) UI (Desktop GUI)
-  - [Go](https://github.com/golang/go) + [Fiber](https://github.com/gofiber/fiber) / [Gin](https://github.com/gin-gonic/gin) (Web) (...[more frameworks](https://github.com/avelino/awesome-go#web-frameworks))
+  - [Go](https://github.com/golang/go) + [Fiber](https://github.com/gofiber/fiber) / [Gin](https://github.com/gin-gonic/gin) / [Gorilla](https://github.com/gorilla) (Web) (...[more frameworks](https://github.com/avelino/awesome-go#web-frameworks))
   - [Flutter](https://github.com/flutter) (Mobile & Desktop)
   
 - I worked with
