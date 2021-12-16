@@ -163,16 +163,24 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 ### starter templates / boilerplate
 
 - [vite starter template](https://github.com/antfu/vitesse)
+- [tailwind css + nextjs starter blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
+- [PWA (progressive web app) starter kit](https://github.com/Polymer/pwa-starter-kit)
+- [flatpak : GTK Vala Template](https://github.com/nahuelwexd/gtk-vala-template)
+- [Android Template with MVVM and Clean Architecture in Kotlin](https://github.com/Drjacky/MVVMTemplate)
 
 ### Tech Stack
 
 - I prefer
   - [Go](https://github.com/golang/go) + [Gio](https://github.com/gioui/gio) UI (Desktop GUI)
-  - [Go](https://github.com/golang/go) + [Fiber](https://github.com/gofiber/fiber) / [Gin](https://github.com/gin-gonic/gin) / [Gorilla](https://github.com/gorilla) / [Beego](https://github.com/beego/beego) / [Echo](https://github.com/labstack/echo) (...[more frameworks](https://github.com/avelino/awesome-go#web-frameworks)) (Web)
+  - [Go](https://github.com/golang/go) + [Fiber](https://github.com/gofiber/fiber) / [Gin](https://github.com/gin-gonic/gin) / [Gorilla](https://github.com/gorilla) / [Beego](https://github.com/beego/beego) / [Echo](https://github.com/labstack/echo) / [Iris](https://github.com/kataras/iris) (...[more frameworks](https://github.com/avelino/awesome-go#web-frameworks)) + [Vue](https://github.com/vuejs/vue) + [Tailwind CSS]() (Web)
   - [Flutter](https://github.com/flutter) (Mobile & Desktop)
   
 - I worked with
   - Kotlin or Java (Android)
   - Laravel (Web)
   - Vala + GTK (Linux Native Applications)
-  - Hugo SSG (static site generator) for tech blogging
+  - [Hugo theme development]()
+  - [Hugo](https://github.com/gohugoio/hugo) SSG (static site generator) for tech blogging
+  - native PHP (Plain PHP + HTML + CSS + JS)
+  - WordPress Theme Development
+  - WordPress blogging
