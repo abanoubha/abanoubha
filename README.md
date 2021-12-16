@@ -44,9 +44,7 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 ![github stats](https://github-readme-stats.vercel.app/api?username=abanoubhannaazer&show_icons=true&line_height=24)
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubhannaazer&layout=compact&langs_count=8&exclude_repo=flash-experiments)
 
-## Awesome Resources & Docs & Libs
-
-### Awesome Lists
+## Awesome Lists
 
 |
 [android ui](https://github.com/wasabeef/awesome-android-ui)
@@ -106,7 +104,7 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 [vite](https://github.com/vitejs/awesome-vite)
 |
 
-### Android Libs
+## Android Libs
 
 - [richeditor android](https://github.com/wasabeef/richeditor-android)
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
@@ -129,7 +127,7 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 - [styleable progress view](https://github.com/WhiteDG/ProgressView)
 - [GraphView](https://github.com/jjoe64/GraphView)
 
-### Go Libs & Pkgs
+## Go Libs & Pkgs
 
 - [gio](https://github.com/gioui/gio) : best (IMHO) cross-platform GUI in Go
 - [tview](https://github.com/rivo/tview) : Rich Interactive Widgets for Terminal UIs
@@ -148,19 +146,19 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 - [closer](https://github.com/xlab/closer) : Package closer ensures a clean exit for your Go app
 - [astranet](https://github.com/zenhotels/astranet) : manage highly concurrent independent network streams
 
-### PHP / Laravel
+## PHP / Laravel
 
 - [parsedown](https://github.com/erusev/parsedown) : Markdown Parser in PHP
 - [rememberable](https://github.com/dwightwatson/rememberable) : Query caching for Laravel
 - [opcache](https://www.php.net/manual/en/opcache.installation.php)
 
-### Tesseract & OCR
+## Tesseract & OCR
 
 - [Tesseract : Main Repo](https://github.com/tesseract-ocr/tesseract)
 - [train tesseract ocr](https://github.com/abanoub-hanna/train-tesseract-ocr)
 - [tesseractfonts](https://github.com/dhivehi/tesseractfonts) : fine tune tesseract for new fonts
 
-### starter templates / boilerplate
+## starter templates / boilerplate
 
 - [vite starter template](https://github.com/antfu/vitesse)
 - [tailwind css + nextjs starter blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
@@ -169,7 +167,7 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 - [flatpak : GTK Rust template](https://github.com/bonedaddy/gtk-rust-template)
 - [Android Template with MVVM and Clean Architecture in Kotlin](https://github.com/Drjacky/MVVMTemplate)
 
-### Tech Stack
+## Tech Stack
 
 - I prefer
   - [Go](https://github.com/golang/go) + [Gio](https://github.com/gioui/gio) UI (Desktop GUI)
