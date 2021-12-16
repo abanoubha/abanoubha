@@ -103,6 +103,10 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 |
 [vite](https://github.com/vitejs/awesome-vite)
 |
+[mac os x](https://github.com/iCHAIT/awesome-macOS)
+|
+[linux software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+|
 
 ## Android Libs
 
