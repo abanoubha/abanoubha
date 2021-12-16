@@ -143,7 +143,6 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 - [gosnmp](https://github.com/alouca/gosnmp) : A simple SNMP library written in Go
 - [scraply](https://github.com/alash3al/scraply) : Scraply a simple dom scraper to fetch information from any html based website and convert that info to JSON APIs
 - [git-lfs](https://github.com/git-lfs/git-lfs) : Git extension for versioning large files
-- [lorca](https://github.com/zserge/lorca) : Build cross-platform modern desktop apps in Go + HTML5
 - [json-iterator / go](https://github.com/json-iterator/go) : A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [imageproxy](https://github.com/willnorris/imageproxy) : A caching, resizing image proxy written in Go
 - [httpsify](https://github.com/alash3al/httpsify) : a transparent HTTPS termination proxy using letsencrypt with auto certification renewal
