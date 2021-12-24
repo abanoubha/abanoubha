@@ -161,16 +161,6 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 - [train tesseract ocr](https://github.com/abanoub-hanna/train-tesseract-ocr)
 - [tesseractfonts](https://github.com/dhivehi/tesseractfonts) : fine tune tesseract for new fonts
 
-## Great Opensource Apps
-
-- [OBS Studio](https://github.com/obsproject/obs-studio)
-- [Blender](https://github.com/blender/blender)
-- [InkScape](https://gitlab.com/inkscape/inkscape)
-- [firefox](https://firefox-source-docs.mozilla.org/contributing/directory_structure.html)
-- [LibreOffice](https://www.libreoffice.org/about-us/source-code/)
-- [GIMP](https://gitlab.gnome.org/GNOME/gimp)
-- [VLC](https://github.com/videolan/vlc)
-
 ## starter templates / boilerplate
 
 - [vite starter template](https://github.com/antfu/vitesse)
