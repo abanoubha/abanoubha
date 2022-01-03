@@ -31,18 +31,18 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
   - Windows 7, 8.1, 10, 11
   - Mac OS X
   - Linux flatpak or snap
-- [Agpeya - الأجبية](https://github.com/abanoubhannaazer/agpeya) (open source)
+- [Agpeya - الأجبية](https://github.com/abanoubha/agpeya) (open source)
   - [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya)
   - [AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000)
   - [Galaxy Store](https://galaxy.store/agpeya)
-- [Go OCR](https://github.com/abanoubhannaazer/go-ocr) (open source, under development)
-- [POS in Go & Gio UI](https://github.com/abanoubhannaazer/pos) (Open source, under development)
-- [POS in Flutter](https://github.com/abanoubhannaazer/posflutter) (Open source, under development)
-- [POS in Vala & GTK](https://github.com/abanoubhannaazer/linuxpos) (Open source, under development)
+- [Go OCR](https://github.com/abanoubha/go-ocr) (open source, under development)
+- [POS in Go & Gio UI](https://github.com/abanoubha/pos) (Open source, under development)
+- [POS in Flutter](https://github.com/abanoubha/posflutter) (Open source, under development)
+- [POS in Vala & GTK](https://github.com/abanoubha/linuxpos) (Open source, under development)
 
 ## My Github account statistics
-![github stats](https://github-readme-stats.vercel.app/api?username=abanoubhannaazer&show_icons=true&line_height=24)
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubhannaazer&layout=compact&langs_count=8&exclude_repo=flash-experiments)
+![github stats](https://github-readme-stats.vercel.app/api?username=abanoubha&show_icons=true&line_height=24)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubha&layout=compact&langs_count=8&exclude_repo=flash-experiments)
 
 ## Awesome Lists
 
