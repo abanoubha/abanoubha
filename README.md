@@ -39,6 +39,7 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 - [POS in Go & Gio UI](https://github.com/abanoubha/pos) (Open source, under development)
 - [POS in Flutter](https://github.com/abanoubha/posflutter) (Open source, under development)
 - [POS in Vala & GTK](https://github.com/abanoubha/linuxpos) (Open source, under development)
+- [conn : show all connected devices to WiFi](https://github.com/abanoubha/conn) (open source, under development, WIP : work in progress)
 
 ## My Github account statistics
 ![github stats](https://github-readme-stats.vercel.app/api?username=abanoubha&show_icons=true&line_height=24)
