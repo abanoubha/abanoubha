@@ -41,10 +41,6 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 - [POS in Vala & GTK](https://github.com/abanoubha/linuxpos) (Open source, under development)
 - [conn : show all connected devices to WiFi](https://github.com/abanoubha/conn) (open source, under development, WIP : work in progress)
 
-## My Github account statistics
-![github stats](https://github-readme-stats.vercel.app/api?username=abanoubha&show_icons=true&line_height=24)
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubha&layout=compact&langs_count=8&exclude_repo=flash-experiments)
-
 ## Awesome Lists
 
 |
