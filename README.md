@@ -60,7 +60,7 @@ Google Chrome
 |
 htop
 |
-blender
+[blender](https://github.com/blender/blender)
 |
 davinci resolv
 |
@@ -93,6 +93,14 @@ fish
 [mark text markdown editor](https://github.com/marktext/marktext)
 |
 [WordPress](https://github.com/WordPress/WordPress)
+|
+[Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework)
+|
+[ocr feeder](https://github.com/GNOME/ocrfeeder)
+|
+[Figma](https://github.com/Figma-Linux/figma-linux)
+|
+[darktable](https://github.com/darktable-org/darktable)
 |
 
 ## Awesome Lists
