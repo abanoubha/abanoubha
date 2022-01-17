@@ -41,6 +41,27 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 - [POS in Vala & GTK](https://github.com/abanoubha/linuxpos) (Open source, under development)
 - [conn : show all connected devices to WiFi](https://github.com/abanoubha/conn) (open source, under development, WIP : work in progress)
 
+## Software I Like
+
+- OS : [Ubuntu OS](https://github.com/ubuntu), [Pop! OS](https://github.com/pop-os) and [Mac OS](https://en.wikipedia.org/wiki/MacOS)
+- Google Chrome
+- [Mozilla Firefox](https://github.com/mozilla/gecko-dev)
+- [Flutter](https://github.com/flutter/flutter)
+- [Go](https://github.com/golang/go)
+- [Alacritty terminal emulator](https://github.com/alacritty/alacritty)
+- htop
+- blender
+- davinci resolv
+- final cut pro x
+- photoshop
+- [tldr](https://github.com/tldr-pages/tldr)
+- npx and [pnpm](https://github.com/pnpm/pnpm)
+- fish
+- [vs code](https://github.com/microsoft/vscode) : bloated but good enough
+- [numi calculator for mac os in javascript](https://github.com/nikolaeu/numi)
+- [min browser](https://github.com/minbrowser/min) : I use it while screencasting
+- [mark text markdown editor](https://github.com/marktext/marktext)
+
 ## Awesome Lists
 
 |
