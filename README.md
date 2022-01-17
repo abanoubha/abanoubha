@@ -72,7 +72,7 @@ photoshop
 |
 npx and [pnpm](https://github.com/pnpm/pnpm)
 |
-fish
+[fish](https://github.com/fish-shell/fish-shell)
 |
 [vlc video player](https://github.com/videolan/vlc)
 |
