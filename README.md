@@ -102,6 +102,14 @@ fish
 |
 [darktable](https://github.com/darktable-org/darktable)
 |
+[GNOME builder](https://github.com/GNOME/gnome-builder)
+|
+[GNOME Glade](https://github.com/GNOME/glade)
+|
+[GNOME boxes](https://github.com/GNOME/gnome-boxes)
+|
+[vite](https://github.com/vitejs/vite)
+|
 
 ## Awesome Lists
 
