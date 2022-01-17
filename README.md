@@ -43,24 +43,55 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 
 ## Software I Like
 
-- OS : [Ubuntu OS](https://github.com/ubuntu), [Pop! OS](https://github.com/pop-os) and [Mac OS](https://en.wikipedia.org/wiki/MacOS)
-- Google Chrome
-- [Mozilla Firefox](https://github.com/mozilla/gecko-dev)
-- [Flutter](https://github.com/flutter/flutter)
-- [Go](https://github.com/golang/go)
-- [Alacritty terminal emulator](https://github.com/alacritty/alacritty)
-- htop
-- blender
-- davinci resolv
-- final cut pro x
-- photoshop
-- [tldr](https://github.com/tldr-pages/tldr)
-- npx and [pnpm](https://github.com/pnpm/pnpm)
-- fish
-- [vs code](https://github.com/microsoft/vscode) : bloated but good enough
-- [numi calculator for mac os in javascript](https://github.com/nikolaeu/numi)
-- [min browser](https://github.com/minbrowser/min) : I use it while screencasting
-- [mark text markdown editor](https://github.com/marktext/marktext)
+|
+OS : [Ubuntu OS](https://github.com/ubuntu), [Pop! OS](https://github.com/pop-os) and [Mac OS](https://en.wikipedia.org/wiki/MacOS)
+|
+Google Chrome
+|
+[Mozilla Firefox](https://github.com/mozilla/gecko-dev)
+|
+[Flutter](https://github.com/flutter/flutter)
+|
+[Go](https://github.com/golang/go)
+|
+[Swift](https://github.com/apple/swift)
+|
+[Alacritty terminal emulator](https://github.com/alacritty/alacritty)
+|
+htop
+|
+blender
+|
+davinci resolv
+|
+final cut pro x
+|
+photoshop
+|
+[tldr](https://github.com/tldr-pages/tldr)
+|
+npx and [pnpm](https://github.com/pnpm/pnpm)
+|
+fish
+|
+[vlc video player](https://github.com/videolan/vlc)
+|
+[svgo](https://github.com/ajstarks/svgo)
+|
+[ventoy : create bootable USB drive](https://github.com/ventoy/Ventoy)
+|
+[popsicle : Multiple USB File Flasher](https://github.com/pop-os/popsicle)
+|
+[vim](https://github.com/vim/vim)
+|
+[vs code](https://github.com/microsoft/vscode) : bloated but good enough
+|
+[numi calculator for mac os in javascript](https://github.com/nikolaeu/numi)
+|
+[min browser](https://github.com/minbrowser/min) : I use it while screencasting
+|
+[mark text markdown editor](https://github.com/marktext/marktext)
+|
 
 ## Awesome Lists
 
