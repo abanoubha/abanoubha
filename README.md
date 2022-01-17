@@ -120,6 +120,8 @@ npx and [pnpm](https://github.com/pnpm/pnpm)
 |
 [gio : immediate mode GUI in Go](https://github.com/gioui/gio)
 |
+[billy](https://github.com/premium-minds/billy)
+|
 
 ## Awesome Lists
 
@@ -187,18 +189,6 @@ npx and [pnpm](https://github.com/pnpm/pnpm)
 
 ## Android Libs
 
-- [richeditor android](https://github.com/wasabeef/richeditor-android)
-- [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
-- [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher)
-- [booster](https://github.com/didi/booster)
-- [android-image-picker](https://github.com/esafirm/android-image-picker)
-- [billy](https://github.com/premium-minds/billy)
-- [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo)
-- [MediaPicker](https://github.com/alhazmy13/MediaPicker)
-- [VideoCompressor](https://github.com/fishwjy/VideoCompressor)
-- [Java-FPDF](https://github.com/nkiraly/Java-FPDF) : Java port of PHP FPDF library from https://www.fpdf.org
-- [ion](https://github.com/koush/ion) : Android Asynchronous Networking and Image Loading
-- [uCrop](https://github.com/Yalantis/uCrop) : Image Cropping Library for Android
 - [android opencv camera scanner](https://github.com/aashari/android-opencv-camera-scanner)
 - [fancy circular progress view w/ animation](https://github.com/zekapp/Android-ProgressViews)
 - [PDFCreatorAndroid](https://github.com/tejpratap46/PDFCreatorAndroid)
