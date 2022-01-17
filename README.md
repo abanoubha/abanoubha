@@ -110,6 +110,10 @@ fish
 |
 [vite](https://github.com/vitejs/vite)
 |
+[snapcraft](https://github.com/snapcore/snapcraft)
+|
+[squoosh](https://github.com/GoogleChromeLabs/squoosh)
+|
 
 ## Awesome Lists
 
