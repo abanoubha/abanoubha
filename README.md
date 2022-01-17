@@ -114,6 +114,12 @@ npx and [pnpm](https://github.com/pnpm/pnpm)
 |
 [squoosh](https://github.com/GoogleChromeLabs/squoosh)
 |
+[flameshot](https://github.com/flameshot-org/flameshot)
+|
+[rsnapshot](https://github.com/rsnapshot/rsnapshot)
+|
+[gio : immediate mode GUI in Go](https://github.com/gioui/gio)
+|
 
 ## Awesome Lists
 
@@ -201,30 +207,6 @@ npx and [pnpm](https://github.com/pnpm/pnpm)
 - [wave loading drawable](https://github.com/race604/WaveLoading)
 - [styleable progress view](https://github.com/WhiteDG/ProgressView)
 - [GraphView](https://github.com/jjoe64/GraphView)
-
-## Go Libs & Pkgs
-
-- [gio](https://github.com/gioui/gio) : best (IMHO) cross-platform GUI in Go
-- [tview](https://github.com/rivo/tview) : Rich Interactive Widgets for Terminal UIs
-- [pdfcpu](https://github.com/pdfcpu/pdfcpu) : Go PDF processor
-- [gorush](https://github.com/appleboy/gorush) : A push notification server written in Go
-- [gopdf](https://github.com/signintech/gopdf) : A simple library for generating PDF written in Go
-- [bigcache](https://github.com/allegro/bigcache) : Efficient cache for gigabytes of data written in Go
-- [gobrain](https://github.com/goml/gobrain) : Neural Networks written in go
-- [gosnmp](https://github.com/alouca/gosnmp) : A simple SNMP library written in Go
-- [scraply](https://github.com/alash3al/scraply) : Scraply a simple dom scraper to fetch information from any html based website and convert that info to JSON APIs
-- [git-lfs](https://github.com/git-lfs/git-lfs) : Git extension for versioning large files
-- [json-iterator / go](https://github.com/json-iterator/go) : A high-performance 100% compatible drop-in replacement of "encoding/json"
-- [imageproxy](https://github.com/willnorris/imageproxy) : A caching, resizing image proxy written in Go
-- [httpsify](https://github.com/alash3al/httpsify) : a transparent HTTPS termination proxy using letsencrypt with auto certification renewal
-- [closer](https://github.com/xlab/closer) : Package closer ensures a clean exit for your Go app
-- [astranet](https://github.com/zenhotels/astranet) : manage highly concurrent independent network streams
-
-## PHP / Laravel
-
-- [parsedown](https://github.com/erusev/parsedown) : Markdown Parser in PHP
-- [rememberable](https://github.com/dwightwatson/rememberable) : Query caching for Laravel
-- [opcache](https://www.php.net/manual/en/opcache.installation.php)
 
 ## Tesseract & OCR
 
