@@ -58,6 +58,16 @@ Google Chrome
 |
 [Alacritty terminal emulator](https://github.com/alacritty/alacritty)
 |
+Android Studio
+|
+XCode
+|
+DevCleaner
+|
+Teamviewer
+|
+AnyDesk
+|
 htop
 |
 [blender](https://github.com/blender/blender)
@@ -100,6 +110,8 @@ npx and [pnpm](https://github.com/pnpm/pnpm)
 |
 [Figma](https://github.com/Figma-Linux/figma-linux)
 |
+adobe xd
+|
 [darktable](https://github.com/darktable-org/darktable)
 |
 [GNOME builder](https://github.com/GNOME/gnome-builder)
@@ -107,6 +119,8 @@ npx and [pnpm](https://github.com/pnpm/pnpm)
 [GNOME Glade](https://github.com/GNOME/glade)
 |
 [GNOME boxes](https://github.com/GNOME/gnome-boxes)
+|
+Virtualbox
 |
 [vite](https://github.com/vitejs/vite)
 |
@@ -121,6 +135,34 @@ npx and [pnpm](https://github.com/pnpm/pnpm)
 [gio : immediate mode GUI in Go](https://github.com/gioui/gio)
 |
 [billy](https://github.com/premium-minds/billy)
+|
+[Reactor : key value database](https://github.com/oky2abbas/reactor)
+|
+[Lantern](https://getlantern.org/en_US/index.html)
+|
+[Audacity](https://www.audacityteam.org/)
+|
+[InkScape](https://inkscape.org/)
+|
+[xdm](https://xtremedownloadmanager.com/)
+|
+[Macs fan control](https://crystalidea.com/macs-fan-control)
+|
+[fileZilla](https://filezilla-project.org/sourcecode.php)
+|
+ssh
+|
+rsync
+|
+[obs studio](https://github.com/obsproject/obs-studio)
+|
+unetbootin
+|
+[transmission](https://github.com/transmission/transmission)
+|
+[qbittorrent](https://github.com/qbittorrent/qBittorrent)
+|
+[sublime text](https://github.com/SublimeText)
 |
 
 ## Awesome Lists
@@ -186,17 +228,6 @@ npx and [pnpm](https://github.com/pnpm/pnpm)
 |
 [linux software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 |
-
-## Android Libs
-
-- [android opencv camera scanner](https://github.com/aashari/android-opencv-camera-scanner)
-- [fancy circular progress view w/ animation](https://github.com/zekapp/Android-ProgressViews)
-- [PDFCreatorAndroid](https://github.com/tejpratap46/PDFCreatorAndroid)
-- [Reactor : key value database](https://github.com/oky2abbas/reactor)
-- [Kotlin databinding samples](https://github.com/android/databinding-samples)
-- [wave loading drawable](https://github.com/race604/WaveLoading)
-- [styleable progress view](https://github.com/WhiteDG/ProgressView)
-- [GraphView](https://github.com/jjoe64/GraphView)
 
 ## Tesseract & OCR
 
