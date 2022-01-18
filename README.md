@@ -6,6 +6,8 @@
 
 As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) : "If I have seen further it is by standing on the shoulders of Giants". So if you consider my projects helpful, it is by standing on the shoulders of giants — in the open source community.
 
+My software motto is "Simple by default, powerful when needed".
+
 ## Software I Created
 
 - [Arabic OCR - Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069) (Android)
