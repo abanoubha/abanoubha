@@ -46,7 +46,7 @@ My software motto is "Simple by default, powerful when needed".
 ## Software I Like
 
 |
-OS : [Ubuntu OS](https://github.com/ubuntu), [Pop! OS](https://github.com/pop-os) and [Mac OS](https://en.wikipedia.org/wiki/MacOS)
+OS : [Ubuntu OS](https://github.com/ubuntu), [Pop! OS](https://github.com/pop-os), [Elementary OS](https://github.com/elementary) and [Mac OS](https://en.wikipedia.org/wiki/MacOS)
 |
 Google Chrome
 |
