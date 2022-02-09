@@ -36,7 +36,7 @@ My software motto is "Simple by default, powerful when needed".
 - [learns7.com](https://learns7.com) (Website, blog)
 - [sohagstores.com](https://sohagstores.com/)
   - Website
-  - Google Play
+  - [Google Play](https://play.google.com/store/apps/details?id=com.sohagstores.android)
   - Huawei AppGallery
   - Samsung Galaxy Store
   - Windows 7, 8.1, 10, 11
@@ -51,6 +51,7 @@ My software motto is "Simple by default, powerful when needed".
 - [POS in Flutter](https://github.com/abanoubha/posflutter) (Open source, under development)
 - [POS in Vala & GTK](https://github.com/abanoubha/linuxpos) (Open source, under development)
 - [conn : show all connected devices to WiFi](https://github.com/abanoubha/conn) (open source, under development, WIP : work in progress)
+- [Value In Brief](https://valueinbrief.com) : all you need to know about software in brief
 
 ## Software I Like
 
