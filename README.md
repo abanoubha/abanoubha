@@ -8,6 +8,15 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 
 My software motto is "Simple by default, powerful when needed".
 
+### My aimed values :
+
+- Clarity
+- Simplicity
+- Comprehensiveness / Comprehension
+- Performance (at the speed of thought)
+- Familiarity
+- Easeness / Restness (less cognitive overload)
+
 ## Software I Created
 
 - [Arabic OCR - Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069) (Android)
