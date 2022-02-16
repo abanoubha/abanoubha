@@ -16,6 +16,7 @@ My software motto is "Simple by default, powerful when needed".
 - Performance (at the speed of thought)
 - Familiarity
 - Easeness / Restness (less cognitive overload)
+- minimalist and focused (not essentialist)
 
 ## Software I Created
 
