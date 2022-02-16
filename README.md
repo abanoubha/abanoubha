@@ -8,6 +8,8 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 
 My software motto is "Simple by default, powerful when needed".
 
+Every well-done food, once, was half-baked. So don't judge pre-release versions of software.
+
 ### My aimed values :
 
 - Clarity
