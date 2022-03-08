@@ -53,6 +53,7 @@ Every well-done food, once, was half-baked. So don't judge pre-release versions 
 - [POS : Point of sale App](https://github.com/abanoubha/pos) (Open source, under development)
 - [conn : show all connected devices to WiFi](https://github.com/abanoubha/conn) (open source, under development, WIP : work in progress)
 - [Value In Brief](https://valueinbrief.com) : all you need to know about software in brief
+- [GTK 4 lib buinding in Go language](https://github.com/abanoubha/gtk4-go) (open source, WIP)
 
 ## Software I Like
 
