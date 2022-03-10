@@ -50,7 +50,8 @@ Every well-done food, once, was half-baked. So don't judge pre-release versions 
   - [AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000)
   - [Galaxy Store](https://galaxy.store/agpeya)
 - [Go OCR](https://github.com/abanoubha/go-ocr) (open source, under development)
-- [POS : Point of sale App](https://github.com/abanoubha/pos) (Open source, under development)
+- [POS : Point of sale App](https://github.com/abanoubha/pos) (WIP, will opensource it later)
+- [imagefactory](https://github.com/abanoubha/imagefactory) (WIP, will opensource it later)
 - [conn : show all connected devices to WiFi](https://github.com/abanoubha/conn) (open source, under development, WIP : work in progress)
 - [Value In Brief](https://valueinbrief.com) : all you need to know about software in brief
 - [GTK 4 lib binding in Go language](https://github.com/abanoubha/gtk4-go) (open source, WIP)
