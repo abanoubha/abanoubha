@@ -29,7 +29,7 @@ Every well-done food, once, was half-baked. So don't judge pre-release versions 
 - [IMG2TXT Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi) (Android)
 - [Pope Shenouda books - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks) (Android)
 - [Digital Business Card](https://kartbusiness.com)
-  - Website
+  - Website (WIP)
   - Android Google Play or Huawei AppGallery or Samsung Galaxy Store
   - iOS / iPad
   - Windows
@@ -51,10 +51,10 @@ Every well-done food, once, was half-baked. So don't judge pre-release versions 
   - [Galaxy Store](https://galaxy.store/agpeya)
 - [Go OCR](https://github.com/abanoubha/go-ocr) (open source, under development)
 - [POS : Point of sale App](https://github.com/abanoubha/pos) (WIP, will opensource it later)
-- [imagefactory](https://github.com/abanoubha/imagefactory) (WIP, will opensource it later)
-- [conn : show all connected devices to WiFi](https://github.com/abanoubha/conn) (open source, under development, WIP : work in progress)
+- [imagefactory : optimizer, cleaner, compressor and converter](https://github.com/abanoubha/imagefactory) (WIP, will opensource it later)
+- [conn : show all connected devices to WiFi](https://github.com/abanoubha/conn) (WIP, opensource)
 - [Value In Brief](https://valueinbrief.com) : all you need to know about software in brief
-- [GTK 4 lib binding in Go language](https://github.com/abanoubha/gtk4-go) (open source, WIP)
+- [GTK 4 lib binding in Go language](https://github.com/abanoubha/gtk4-go) (opensource, WIP)
 
 ## Software I Like
 
