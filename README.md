@@ -262,12 +262,11 @@ unetbootin
 
 ## Tech Stack
 
-- I prefer
+I worked with
+
   - [Go](https://github.com/golang/go) + [Gio](https://github.com/gioui/gio) UI (Desktop GUI)
   - [Go](https://github.com/golang/go) + [Fiber](https://github.com/gofiber/fiber) / [Gin](https://github.com/gin-gonic/gin) / [Gorilla](https://github.com/gorilla) / [Beego](https://github.com/beego/beego) / [Echo](https://github.com/labstack/echo) / [Iris](https://github.com/kataras/iris) (...[more frameworks](https://github.com/avelino/awesome-go#web-frameworks)) + [Vue](https://github.com/vuejs/vue) + [Tailwind CSS]() (Web)
   - [Flutter](https://github.com/flutter) (Mobile & Desktop)
-  
-- I worked with
   - Kotlin or Java (Android)
   - Laravel (Web)
   - Vala + GTK (Linux Native Applications)
