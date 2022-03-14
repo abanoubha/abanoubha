@@ -243,6 +243,8 @@ unetbootin
 |
 [linux software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 |
+[swift](https://github.com/matteocrippa/awesome-swift/)
+|
 
 ## Tesseract & OCR
 
