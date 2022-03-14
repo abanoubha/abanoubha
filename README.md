@@ -245,6 +245,8 @@ unetbootin
 |
 [swift](https://github.com/matteocrippa/awesome-swift/)
 |
+[iOS](https://github.com/vsouza/awesome-ios)
+|
 
 ## Tesseract & OCR
 
