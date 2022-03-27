@@ -55,6 +55,7 @@ Every well-done food, once, was half-baked. So don't judge pre-release versions 
 - [conn : show all connected devices to WiFi](https://github.com/abanoubha/conn) (WIP, opensource)
 - [Value In Brief](https://valueinbrief.com) : all you need to know about software in brief
 - [GTK 4 lib binding in Go language](https://github.com/abanoubha/gtk4-go) (opensource, WIP)
+- [cmdOnSave : VSCode extension to run commands on save](https://github.com/abanoubha/cmdOnSave) (opensource, WIP)
 
 ## Software I Like
 
