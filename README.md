@@ -51,7 +51,7 @@ Every well-done food, once, was half-baked. So don't judge pre-release versions 
   - [Galaxy Store](https://galaxy.store/agpeya)
 - [OCR : extract text from image or PDF](https://github.com/abanoubha/ocr) (WIP, opensource)
 - POS : Point of sale App (WIP)
-- [imagefactory : optimizer, cleaner, compressor and converter](https://github.com/abanoubha/imagefactory) (WIP, will opensource it later)
+- [imagefactory : optimizer, cleaner, compressor and converter](https://github.com/abanoubha/imagefactory) (WIP, half-baked, will opensource it later)
 - [conn : show all connected devices to WiFi](https://github.com/abanoubha/conn) (WIP, opensource)
 - [Value In Brief](https://valueinbrief.com) : all you need to know about software in brief
 - [GTK 4 lib binding in Go language](https://github.com/abanoubha/gtk4-go) (opensource, WIP)
