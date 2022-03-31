@@ -22,41 +22,99 @@ Every well-done food, once, was half-baked. So don't judge pre-release versions 
 
 ## Software I Created
 
-- [Arabic OCR - Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069) (Android)
-- [IMG2TXT OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin) (Android)
-- [IMG2TXT : English & Arabic OCR Android app - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt) (Android)
-- [IMG2TXT Persian OCR app - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian) (Android)
-- [IMG2TXT Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi) (Android)
-- [Pope Shenouda books - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks) (Android)
-- [Digital Business Card](https://kartbusiness.com)
-  - Website (WIP)
-  - Android Google Play or Huawei AppGallery or Samsung Galaxy Store
-  - iOS / iPad
-  - Windows
-  - Linux flatpak or snap
-  - Mac OS X
-- [Abanoub Blog](https://www.abanoubhanna.com) (Website, blog)
-- [learns7.com](https://learns7.com) (Website, blog)
-- [sohagstores.com](https://sohagstores.com/)
-  - Website
-  - [Google Play](https://play.google.com/store/apps/details?id=com.sohagstores.android)
-  - Huawei AppGallery
-  - Samsung Galaxy Store
-  - Windows 7, 8.1, 10, 11
-  - Mac OS X
-  - Linux flatpak or snap
-- [Agpeya - الأجبية](https://github.com/abanoubha/agpeya) (open source)
-  - [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya)
-  - [AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000)
-  - [Galaxy Store](https://galaxy.store/agpeya)
-- [OCR : extract text from image or PDF](https://github.com/abanoubha/ocr) (WIP, opensource)
-- POS : Point of sale App (WIP)
-- [imagefactory : optimizer, cleaner, compressor and converter](https://github.com/abanoubha/imagefactory) (WIP, half-baked, will opensource it later)
-- [conn : show all connected devices to WiFi](https://github.com/abanoubha/conn) (WIP, opensource)
-- [Value In Brief](https://valueinbrief.com) : all you need to know about software in brief
-- [GTK 4 lib binding in Go language](https://github.com/abanoubha/gtk4-go) (opensource, WIP)
-- [cmdOnSave : VSCode extension to run commands on save](https://github.com/abanoubha/cmdOnSave) (opensource, WIP)
-- [waffar stores](https://waffarstores.com) : discount bot for telegram, facebook, whatsapp and email.
+### IMG2TXT OCR
+
+- __Project Description__ : a tool to identify and extract text from images efficiently.
+- __Tech Stack__ : Java, Kotlin, Tesseract lib
+- Install The App : [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069), [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin), [English & Arabic OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt), [Persian OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian), [Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi).
+
+### [Value In Brief](https://valueinbrief.com)
+
+- __Project Description__ : A Tech Blog in English
+- __Tech Stack__ : [Hugo](https://github.com/gohugoio/hugo) the popular static site generator (SSG), Markdown `.md`.
+
+### Pope Shenouda books
+
+- __Project Description__ : books written by Pope Shenouda III
+- __Tech Stack__ : Java
+- Install the app on [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks)
+
+### [Digital Business Card](https://kartbusiness.com)
+
+- __Project Description__ : a virtual wallet of digital business cards
+- __Tech Stack__ :
+  - Web Frontend : HTML, Tailwind CSS, Javascript
+  - Web Backend : Go lang, dgraph db
+  - Mobile : Flutter
+- Install the app on Google Play or Huawei AppGallery or Samsung Galaxy Store or iPhone or iPad or Windows or Linux flatpak or Linux snap or Mac OS.
+
+### [Abanoub Blog](https://www.abanoubhanna.com)
+
+- __Project Description__ : a tech blog in Egyptian Arabic
+
+### [learns7.com](https://learns7.com)
+
+- __Project Description__ : an Arabic website to learn programming, English and digital marketing.
+- __Tech Stack__ : WordPress
+
+### [sohagstores.com](https://sohagstores.com/)
+
+- __Project Description__ : a website to find stores in Sohag, and tell people about your store.
+- __Tech Stack__ : Laravel, Flutter.
+- Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.sohagstores.app) or Huawei AppGallery or Samsung Galaxy Store or Windows or Mac OS X or Linux flatpak or Linux snap.
+
+### Agpeya - الأجبية
+
+- [open source](https://github.com/abanoubha/agpeya)
+- __Project Description__ : an Arabic book of prayers for Coptic Orthodox Church.
+- __Tech Stack__ : Java, SQLite.
+- Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya) or [AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000) or [Galaxy Store](https://galaxy.store/agpeya).
+
+### OCR
+
+- [open source](https://github.com/abanoubha/ocr)
+- project description : extract text from images and/or PDF files.
+- tech stack : Go language, Gio UI, Tesseract via gotesseract
+
+### POS
+
+- project description : Point of sale App
+- tech stack : Go, Flutter
+
+### imagefactory
+
+- [open source](https://github.com/abanoubha/imagefactory)
+- project description : image optimizer, cleaner, compressor and converter
+- tech stack : Go
+
+### videofactory
+
+- [open source](https://github.com/abanoubha/videofactory)
+- project description : video optimizer, cleaner, compressor and converter
+- tech stack : Go
+
+### conn
+
+- [open source](https://github.com/abanoubha/conn)
+- project description : a tool to show all connected devices to WiFi
+- tech stack : Go
+
+### gtk4-go
+
+- [open source](https://github.com/abanoubha/gtk4-go)
+- project description : GTK 4 lib binding in Go language
+- tech stack : Go
+
+### cmdOnSave
+
+- project description : VSCode extension to run commands on save
+- [open source](https://github.com/abanoubha/cmdOnSave)
+- tech stack : Javascript, Typescript.
+
+### [WaffarStores](https://waffarstores.com)
+
+- project description : discount bot for telegram, facebook, whatsapp and email.
+- tech stack : Go
 
 ## Software I Like
 
