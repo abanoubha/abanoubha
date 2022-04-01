@@ -8,7 +8,7 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 
 My software motto is "Simple by default, powerful when needed".
 
-Every well-done food, once, was half-baked. So don't judge pre-release versions of software.
+__User experience__ of my software should be __seamless__, __intiutive__ and __fun__.
 
 ### My aimed values :
 
@@ -19,6 +19,7 @@ Every well-done food, once, was half-baked. So don't judge pre-release versions 
 - Familiarity
 - Easeness / Restness (less cognitive overload)
 - minimalist and focused (not essentialist)
+- consistency
 
 ## Software I Created
 
