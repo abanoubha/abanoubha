@@ -8,7 +8,7 @@ As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_gian
 
 My software motto is "Simple by default, powerful when needed".
 
-__User experience__ of my software should be __seamless__, __intiutive__ and __fun__.
+__User experience__ of my software should be __seamless__, __intuitive__ and __fun__.
 
 ### My aimed values :
 
