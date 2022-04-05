@@ -340,3 +340,14 @@ I worked with
   - native PHP (Plain PHP + HTML + CSS + JS)
   - WordPress Theme Development
   - WordPress blogging
+
+Interested in those programming languages :
+- [V](https://github.com/vlang)
+- [Go](https://github.com/golang)
+- [Rust](https://github.com/rust-lang)
+- [Zig](https://github.com/ziglang)
+- [Swift](https://github.com/apple/swift)
+- [PHP](https://github.com/php)
+- [Kotlin](https://github.com/kotlin)
+- [Vala](https://github.com/GNOME/vala)
+- Java
