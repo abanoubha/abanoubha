@@ -348,6 +348,7 @@ Interested in those programming languages :
 - [Zig](https://github.com/ziglang)
 - [Swift](https://github.com/apple/swift)
 - [PHP](https://github.com/php)
+- Javascript, [Typescript](https://github.com/microsoft/TypeScript), [Node.js](https://github.com/nodejs/node) (JavaScript runtime)
 - [Kotlin](https://github.com/kotlin)
 - [Vala](https://github.com/GNOME/vala)
 - Java
