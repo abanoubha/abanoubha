@@ -100,9 +100,9 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - project description : a tool to show all connected devices to WiFi
 - tech stack : Go
 
-### gtk4-go
+### Gtk 4 lib wrapper / binding in Go language
 
-- [open source](https://github.com/abanoubha/gtk4-go)
+- [open source](https://github.com/abanoubha/gtk)
 - project description : GTK 4 lib binding in Go language
 - tech stack : Go
 
