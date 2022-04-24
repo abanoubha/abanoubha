@@ -279,14 +279,4 @@ I worked with
   - WordPress Theme Development
   - WordPress blogging
 
-Interested in those programming languages :
-- [V](https://github.com/vlang)
-- [Go](https://github.com/golang)
-- [Rust](https://github.com/rust-lang)
-- [Zig](https://github.com/ziglang)
-- [Swift](https://github.com/apple/swift)
-- [PHP](https://github.com/php)
-- Javascript, [Typescript](https://github.com/microsoft/TypeScript), [Node.js](https://github.com/nodejs/node) (JavaScript runtime)
-- [Kotlin](https://github.com/kotlin)
-- [Vala](https://github.com/GNOME/vala)
-- Java
+Interested in those programming languages : [Flutter framework](https://flutter.dev/) | [Dart language](https://dart.dev/) | [Go language](https://github.com/golang) | [Swift language](https://github.com/apple/swift) | [PHP language](https://github.com/php) | Javascript, [Typescript](https://github.com/microsoft/TypeScript), [Node.js](https://github.com/nodejs/node) (JavaScript runtime) | [Kotlin language](https://github.com/kotlin) | [Vala language](https://github.com/GNOME/vala) | Java language | [V language](https://github.com/vlang) | [Rust language](https://github.com/rust-lang) | [Zig language](https://github.com/ziglang)
