@@ -272,7 +272,6 @@ I worked with
   - [Flutter](https://github.com/flutter) (Mobile & Desktop)
   - Kotlin or Java (Android)
   - Laravel (Web)
-  - Vala + GTK (Linux Native Applications)
   - [Hugo theme development](https://gohugo.io/templates/)
   - [Hugo](https://github.com/gohugoio/hugo) SSG (static site generator) for tech blogging
   - native PHP (Plain PHP + HTML + CSS + JS)
