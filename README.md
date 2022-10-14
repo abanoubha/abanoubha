@@ -29,6 +29,21 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - __Tech Stack__ : Java, Kotlin, Tesseract lib
 - Install The App : [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069), [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin), [English & Arabic OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt), [Persian OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian), [Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi).
 
+### PDF OCR
+
+- __Project Description__ : a tool to identify and extract text from PDF efficiently, then convert it into document or text file.
+- Install The App : available for public testing/testers and early adopters on Google Play.
+
+### Smart POS
+
+- __project description__ : Point of sale App
+- Install The App : available for public testing/testers and early adopters on Google Play.
+
+### TimeGrid
+
+- __project description__ : daily tasks and money records, show year, show month, show week, show day.
+- Install The App : available for public testing/testers and early adopters on Google Play.
+
 ### [Value In Brief](https://valueinbrief.com)
 
 - __Project Description__ : A Tech Blog in English
@@ -76,11 +91,6 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - [open source](https://github.com/abanoubha/ocr)
 - project description : extract text from images and/or PDF files.
 - tech stack : Go language, Gio UI, Tesseract via gotesseract
-
-### POS
-
-- project description : Point of sale App
-- tech stack : Go, Flutter
 
 ### imagefactory
 
