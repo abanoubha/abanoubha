@@ -122,11 +122,6 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - [open source](https://github.com/abanoubha/cmdOnSave)
 - tech stack : Javascript, Typescript.
 
-### [WaffarStores](https://waffarstores.com)
-
-- project description : discount bot for telegram, facebook, whatsapp and email.
-- tech stack : Go
-
 ### Smartphone
 
 - project description : smartphone dialer with contact identity and social links
