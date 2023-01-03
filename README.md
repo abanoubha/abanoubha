@@ -3,6 +3,12 @@
 [![twitter badge](https://img.shields.io/badge/twitter-@abanoubha-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abanoubha)
 &nbsp;
 [![linkedin badge](https://img.shields.io/badge/linkedin-abanoub_hanna-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abanoub-hanna)
+&nbsp;
+[Telegram](https://t.me/abanoubchan)
+&nbsp;
+[Facebook](https://www.facebook.com/AbanoubHannaDotCom)
+&nbsp;
+[CV / Résumé / Portfolio](https://abanoubhanna.netlify.app/me)
 
 As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) : "If I have seen further it is by standing on the shoulders of Giants". So if you consider my projects helpful, it is by standing on the shoulders of giants — in the open source community.
 
