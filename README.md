@@ -35,17 +35,17 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - __Tech Stack__ : Java, Kotlin, Tesseract lib
 - Install The App : [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069), [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin), [English & Arabic OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt), [Persian OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian), [Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi).
 
-### PDF OCR
+### PDF OCR (WIP)
 
 - __Project Description__ : a tool to identify and extract text from PDF efficiently, then convert it into document or text file.
 - Install The App : available for public testing/testers and early adopters on Google Play.
 
-### Smart POS
+### Smart POS (WIP)
 
 - __project description__ : Point of sale App
 - Install The App : available for public testing/testers and early adopters on Google Play.
 
-### TimeGrid
+### TimeGrid (WIP)
 
 - __project description__ : daily tasks and money records, show year, show month, show week, show day.
 - Install The App : available for public testing/testers and early adopters on Google Play.
@@ -83,7 +83,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 - __Project Description__ : a website to find stores in Sohag, and tell people about your store.
 - __Tech Stack__ : Laravel, Flutter.
-- Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.sohagstores.app) or Huawei AppGallery or Samsung Galaxy Store or Windows or Mac OS X or Linux flatpak or Linux snap.
+- Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.sohagstores.app).
 
 ### Agpeya - الأجبية
 
@@ -98,37 +98,25 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - project description : extract text from images and/or PDF files.
 - tech stack : Go language, Gio UI, Tesseract via gotesseract
 
-### imagefactory
+### imagefactory (WIP)
 
 - [open source](https://github.com/abanoubha/imagefactory)
 - project description : image optimizer, cleaner, compressor and converter
 - tech stack : Go
 
-### videofactory
+### videofactory (WIP)
 
 - [open source](https://github.com/abanoubha/videofactory)
 - project description : video optimizer, cleaner, compressor and converter
 - tech stack : Go
 
-### conn
-
-- [open source](https://github.com/abanoubha/conn)
-- project description : a tool to show all connected devices to WiFi
-- tech stack : Go
-
-### Gtk 4 lib wrapper / binding in Go language
-
-- [open source](https://github.com/abanoubha/gtk)
-- project description : GTK 4 lib binding in Go language
-- tech stack : Go
-
-### cmdOnSave
+### cmdOnSave (WIP)
 
 - project description : VSCode extension to run commands on save
 - [open source](https://github.com/abanoubha/cmdOnSave)
 - tech stack : Javascript, Typescript.
 
-### Smartphone
+### Smartphone (WIP)
 
 - project description : smartphone dialer with contact identity and social links
 - tech stack : flutter (dart)
