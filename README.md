@@ -277,4 +277,14 @@ I worked with
   - WordPress Theme Development
   - WordPress blogging
 
+### Next
+
+- Website : PHP/Laravel
+- Web App : Qwik
+- Web Services / Back-End : Go
+- Android Apps : Kotlin/Java or Flutter/Dart
+- Desktop Apps : Flutter/Dart
+
+So, PHP JS Go Kotlin Java Dart.
+
 Interested in those programming languages : [Flutter framework](https://flutter.dev/) | [Dart language](https://dart.dev/) | [Go language](https://github.com/golang) | [Swift language](https://github.com/apple/swift) | [PHP language](https://github.com/php) | Javascript, [Typescript](https://github.com/microsoft/TypeScript), [Node.js](https://github.com/nodejs/node) (JavaScript runtime) | [Kotlin language](https://github.com/kotlin) | [Vala language](https://github.com/GNOME/vala) | Java language | [V language](https://github.com/vlang) | [Rust language](https://github.com/rust-lang) | [Zig language](https://github.com/ziglang) | [D language](https://github.com/dlang)
