@@ -29,16 +29,12 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ## Software I Created
 
-### IMG2TXT OCR
+### [IMG2TXT OCR](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt)
 
 - __Project Description__ : a tool to identify and extract text from images efficiently.
 - __Tech Stack__ : Java, Kotlin, Tesseract lib
-- Install The App : [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069), [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin), [English & Arabic OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt), [Persian OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian), [Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi).
-
-### PDF OCR (WIP)
-
-- __Project Description__ : a tool to identify and extract text from PDF efficiently, then convert it into document or text file.
-- Install The App : available for public testing/testers and early adopters on Google Play.
+- Install The App : [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069), [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin), [Persian OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian), [Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi).
+- [IMG2TXT OCR Text Scanner for images & PDF (English & Arabic)](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt) will be the go-to app for OCR as I am planning to support Arabic, English, Hindi/Indian, Persian/Farsi, All-latin languages. OCR images or PDF.
 
 ### Smart POS (WIP)
 
@@ -55,20 +51,19 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - __Project Description__ : A Tech Blog in English
 - __Tech Stack__ : [Hugo](https://github.com/gohugoio/hugo) the popular static site generator (SSG), Markdown `.md`.
 
-### Pope Shenouda books
+### [Pope Shenouda books](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks)
 
 - __Project Description__ : books written by Pope Shenouda III
 - __Tech Stack__ : Java
-- Install the app on [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks)
 
 ### [Digital Business Card](https://kartbusiness.com)
 
 - __Project Description__ : a virtual wallet of digital business cards
 - __Tech Stack__ :
   - Web Frontend : HTML, Tailwind CSS, Javascript
-  - Web Backend : Go lang, dgraph db
+  - Web Backend : Go, dgraph db
   - Mobile : Flutter
-- Install the app on Google Play or Huawei AppGallery or Samsung Galaxy Store or iPhone or iPad or Windows or Linux flatpak or Linux snap or Mac OS.
+- [Install the app on your mobile](https://kartbusiness.com/app).
 
 ### [Abanoub Blog](https://www.abanoubhanna.com)
 
@@ -79,7 +74,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - __Project Description__ : an Arabic website to learn programming, English and digital marketing.
 - __Tech Stack__ : WordPress
 
-### [sohagstores.com](https://sohagstores.com/)
+### [sohagstores.com](https://sohagstores.com/) (no working on it anymore)
 
 - __Project Description__ : a website to find stores in Sohag, and tell people about your store.
 - __Tech Stack__ : Laravel, Flutter.
@@ -90,7 +85,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - [open source](https://github.com/abanoubha/agpeya)
 - __Project Description__ : an Arabic book of prayers for Coptic Orthodox Church.
 - __Tech Stack__ : Java, SQLite.
-- Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya) or [AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000) or [Galaxy Store](https://galaxy.store/agpeya).
+- [Install Agpeya app from Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya) or [AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000).
 
 ### OCR
 
