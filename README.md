@@ -252,9 +252,6 @@ unetbootin
 - [vite starter template](https://github.com/antfu/vitesse)
 - [tailwind css + nextjs starter blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 - [PWA (progressive web app) starter kit](https://github.com/Polymer/pwa-starter-kit)
-- [flatpak : GTK Vala Template](https://github.com/nahuelwexd/gtk-vala-template)
-- [flatpak : GTK Rust template](https://github.com/bonedaddy/gtk-rust-template)
-- [GTK + Rust + Meson + Flatpak](https://github.com/krsanky/gtk-rust-template)
 - [Android Template with MVVM and Clean Architecture in Kotlin](https://github.com/Drjacky/MVVMTemplate)
 
 ## Tech Stack
