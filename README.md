@@ -74,7 +74,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - __Project Description__ : an Arabic website to learn programming, English and digital marketing.
 - __Tech Stack__ : WordPress
 
-### [sohagstores.com](https://sohagstores.com/) (no working on it anymore)
+### [sohagstores.com](https://sohagstores.com/) (not working on it anymore)
 
 - __Project Description__ : a website to find stores in Sohag, and tell people about your store.
 - __Tech Stack__ : Laravel, Flutter.
