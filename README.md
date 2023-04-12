@@ -250,7 +250,6 @@ unetbootin
 ## starter templates / boilerplate
 
 - [vite starter template](https://github.com/antfu/vitesse)
-- [tailwind css + nextjs starter blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 - [PWA (progressive web app) starter kit](https://github.com/Polymer/pwa-starter-kit)
 - [Android Template with MVVM and Clean Architecture in Kotlin](https://github.com/Drjacky/MVVMTemplate)
 
