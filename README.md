@@ -29,6 +29,15 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ## Software I Created
 
+### [Digital Business Card](https://kartbusiness.com)
+
+- __Project Description__ : a virtual wallet of digital business cards
+- __Tech Stack__ :
+  - website : Laravel 10 + Tailwind CSS : v1.x
+  - website 2 : Qwik + Tailwind CSS : v0.x
+  - Mobile : Flutter + Laravel API
+- [Install the app on your mobile](https://kartbusiness.com/app).
+
 ### [IMG2TXT OCR](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt)
 
 - __Project Description__ : a tool to identify and extract text from images efficiently.
@@ -55,15 +64,6 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 - __Project Description__ : books written by Pope Shenouda III
 - __Tech Stack__ : Java
-
-### [Digital Business Card](https://kartbusiness.com)
-
-- __Project Description__ : a virtual wallet of digital business cards
-- __Tech Stack__ :
-  - Web Frontend : HTML, Tailwind CSS, Javascript
-  - Web Backend : Go, dgraph db
-  - Mobile : Flutter
-- [Install the app on your mobile](https://kartbusiness.com/app).
 
 ### [Abanoub Blog](https://www.abanoubhanna.com)
 
