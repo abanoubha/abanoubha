@@ -38,6 +38,11 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
   - Mobile : Flutter + Laravel API
 - [Install the app on your mobile](https://kartbusiness.com/app).
 
+### [Loka Stores](https://lokastores.com)
+
+- ecommerce website
+- tech stack : Laravel 10 + Blade + Tailwind CSS , .. [read more here](https://abanoubhanna.com).
+
 ### [IMG2TXT OCR](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt)
 
 - __Project Description__ : a tool to identify and extract text from images efficiently.
