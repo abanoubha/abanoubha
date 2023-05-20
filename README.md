@@ -246,12 +246,6 @@ unetbootin
 [sublime text](https://github.com/SublimeText)
 |
 
-## Tesseract & OCR
-
-- [Tesseract : Main Repo](https://github.com/tesseract-ocr/tesseract)
-- [train tesseract ocr](https://github.com/abanoub-hanna/train-tesseract-ocr)
-- [tesseractfonts](https://github.com/dhivehi/tesseractfonts) : fine tune tesseract for new fonts
-
 ## starter templates / boilerplate
 
 - [vite starter template](https://github.com/antfu/vitesse)
