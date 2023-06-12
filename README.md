@@ -34,8 +34,10 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - __Project Description__ : a virtual wallet of digital business cards
 - __Tech Stack__ :
   - website : Laravel 10 + Tailwind CSS : v1.x
-  - website 2 : Qwik + Tailwind CSS : v0.x
-  - Mobile : Flutter + Laravel API
+  - Laravel API
+  - PWA : Progressive Web App
+  - Android App ( Kotlin + Jetpack Compose )
+  - iOS App ( SwiftUI )
 - [Install the app on your mobile](https://kartbusiness.com/app).
 
 ### [Loka Stores](https://lokastores.com)
