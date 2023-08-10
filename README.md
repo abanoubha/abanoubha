@@ -268,6 +268,7 @@ I worked with
   - native PHP (Plain PHP + HTML + CSS + JS)
   - WordPress Theme Development
   - WordPress blogging
+  - HTMX w/ Tailwind + ExpressJS
 
 ### Next
 
@@ -276,6 +277,14 @@ I worked with
 - Web Services / Back-End : Go
 - Android Apps : Kotlin/Java or Flutter/Dart
 - Desktop Apps : Flutter/Dart
+
+### Prefered Tech Stacks
+
+- web: HTMX + Tailwind CSS + Go + PostgreSQL
+- web: PHP Laravel + PostgreSQL
+- web: Qwik
+- mobile: Flutter
+- android: Kotlin + Jetpack Compose + SQLite
 
 So, PHP JS Go Kotlin Java Dart.
 
