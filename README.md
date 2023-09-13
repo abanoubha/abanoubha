@@ -101,8 +101,8 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - **OS** : [Ubuntu Linux](https://github.com/ubuntu) and [Mac OS X](https://en.wikipedia.org/wiki/MacOS)
 - **Web browser** : Google Chrome, Mozilla Firefox and Safari
 - **to create a custom website/web app** : [Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework) + PostgreSQL + [Tailwind CSS](https://tailwindcss.com/)
-- **to create large-scale web app** : HTMX + [Tailwind CSS](https://tailwindcss.com/) + Go + PostgreSQL
-- **to create backend API** : Go or Laravel
+- **to create large-scale web app** : [HTMX](https://htmx.org/) + [Tailwind CSS](https://tailwindcss.com/) + [Go](https://go.dev) + PostgreSQL
+- **to create backend API** : [Go](https://go.dev/) or Laravel
 - **to create an Android app** : Kotlin + Jetpack Compose + SQLite
 - **to create an iOS app** : [Swift](https://github.com/apple/swift) + SwiftUI
 - **to create cross-platform app** : [Flutter](https://github.com/flutter/flutter)
