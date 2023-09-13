@@ -16,6 +16,8 @@ My software motto is "Simple by default, powerful when needed".
 
 __User experience__ of my software should be __seamless__, __intuitive__ and __fun__.
 
+You do not need to be perfect to succeed, just be good/fit enough for the job.
+
 ### My aimed values :
 
 - Clarity
@@ -38,7 +40,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
   - PWA : Progressive Web App
   - Android App ( Kotlin + Jetpack Compose )
   - iOS App ( SwiftUI )
-- [Install the app on your mobile](https://kartbusiness.com/app).
+- [Install the app on your mobile](https://kartbusiness.com/app) from [Google Play](https://play.google.com/store/apps/details?id=com.sohagstores.app).
 
 ### [Loka Stores](https://lokastores.com)
 
@@ -98,194 +100,21 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 - [open source](https://github.com/abanoubha/ocr)
 - project description : extract text from images and/or PDF files.
-- tech stack : Go language, Gio UI, Tesseract via gotesseract
+- tech stack : [Go](https://github.com/golang/go) language, [Gio](https://github.com/gioui/gio) UI, Tesseract via gotesseract
 
-### imagefactory (WIP)
+## Software of choice | Tech Stack of choice
 
-- [open source](https://github.com/abanoubha/imagefactory)
-- project description : image optimizer, cleaner, compressor and converter
-- tech stack : Go
-
-### videofactory (WIP)
-
-- [open source](https://github.com/abanoubha/videofactory)
-- project description : video optimizer, cleaner, compressor and converter
-- tech stack : Go
-
-### cmdOnSave (WIP)
-
-- project description : VSCode extension to run commands on save
-- [open source](https://github.com/abanoubha/cmdOnSave)
-- tech stack : Javascript, Typescript.
-
-### Smartphone (WIP)
-
-- project description : smartphone dialer with contact identity and social links
-- tech stack : flutter (dart)
-- status : WIP
-
-## Software I Like
-
-|
-OS : [Ubuntu OS](https://github.com/ubuntu), [Pop! OS](https://github.com/pop-os), [Elementary OS](https://github.com/elementary) and [Mac OS](https://en.wikipedia.org/wiki/MacOS)
-|
-Google Chrome
-|
-[Mozilla Firefox](https://github.com/mozilla/gecko-dev)
-|
-[Flutter](https://github.com/flutter/flutter)
-|
-[Go](https://github.com/golang/go)
-|
-[Swift](https://github.com/apple/swift)
-|
-[Alacritty terminal emulator](https://github.com/alacritty/alacritty)
-|
-Android Studio
-|
-XCode
-|
-DevCleaner
-|
-Teamviewer
-|
-AnyDesk
-|
-htop
-|
-[blender](https://github.com/blender/blender)
-|
-davinci resolv
-|
-final cut pro x
-|
-photoshop
-|
-[tldr](https://github.com/tldr-pages/tldr)
-|
-npx and [pnpm](https://github.com/pnpm/pnpm)
-|
-[fish](https://github.com/fish-shell/fish-shell)
-|
-[vlc video player](https://github.com/videolan/vlc)
-|
-[svgo](https://github.com/ajstarks/svgo)
-|
-[ventoy : create bootable USB drive](https://github.com/ventoy/Ventoy)
-|
-[popsicle : Multiple USB File Flasher](https://github.com/pop-os/popsicle)
-|
-[vim](https://github.com/vim/vim)
-|
-[vs code](https://github.com/microsoft/vscode) : bloated but good enough
-|
-[numi calculator for mac os in javascript](https://github.com/nikolaeu/numi)
-|
-[min browser](https://github.com/minbrowser/min) : I use it while screencasting
-|
-[mark text markdown editor](https://github.com/marktext/marktext)
-|
-[WordPress](https://github.com/WordPress/WordPress)
-|
-[Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework)
-|
-[ocr feeder](https://github.com/GNOME/ocrfeeder)
-|
-[Figma](https://github.com/Figma-Linux/figma-linux)
-|
-adobe xd
-|
-[darktable](https://github.com/darktable-org/darktable)
-|
-[GNOME builder](https://github.com/GNOME/gnome-builder)
-|
-[GNOME Glade](https://github.com/GNOME/glade)
-|
-[GNOME boxes](https://github.com/GNOME/gnome-boxes)
-|
-Virtualbox
-|
-[vite](https://github.com/vitejs/vite)
-|
-[snapcraft](https://github.com/snapcore/snapcraft)
-|
-[squoosh](https://github.com/GoogleChromeLabs/squoosh)
-|
-[flameshot](https://github.com/flameshot-org/flameshot)
-|
-[rsnapshot](https://github.com/rsnapshot/rsnapshot)
-|
-[gio : immediate mode GUI in Go](https://github.com/gioui/gio)
-|
-[billy](https://github.com/premium-minds/billy)
-|
-[Reactor : key value database](https://github.com/oky2abbas/reactor)
-|
-[Lantern](https://getlantern.org/en_US/index.html)
-|
-[Audacity](https://www.audacityteam.org/)
-|
-[InkScape](https://inkscape.org/)
-|
-[xdm](https://xtremedownloadmanager.com/)
-|
-[Macs fan control](https://crystalidea.com/macs-fan-control)
-|
-[fileZilla](https://filezilla-project.org/sourcecode.php)
-|
-ssh
-|
-rsync
-|
-[obs studio](https://github.com/obsproject/obs-studio)
-|
-unetbootin
-|
-[transmission](https://github.com/transmission/transmission)
-|
-[qbittorrent](https://github.com/qbittorrent/qBittorrent)
-|
-[sublime text](https://github.com/SublimeText)
-|
-
-## starter templates / boilerplate
-
-- [vite starter template](https://github.com/antfu/vitesse)
-- [PWA (progressive web app) starter kit](https://github.com/Polymer/pwa-starter-kit)
-- [Android Template with MVVM and Clean Architecture in Kotlin](https://github.com/Drjacky/MVVMTemplate)
-
-## Tech Stack
-
-I worked with
-
-  - [Go](https://github.com/golang/go) + [Gio](https://github.com/gioui/gio) UI (Desktop GUI)
-  - [Go](https://github.com/golang/go) + [Fiber](https://github.com/gofiber/fiber) / [Gin](https://github.com/gin-gonic/gin) / [Gorilla](https://github.com/gorilla) / [Beego](https://github.com/beego/beego) / [Echo](https://github.com/labstack/echo) / [Iris](https://github.com/kataras/iris) (...[more frameworks](https://github.com/avelino/awesome-go#web-frameworks)) + [Vue](https://github.com/vuejs/vue) + [Tailwind CSS]() (Web)
-  - [Flutter](https://github.com/flutter) (Mobile & Desktop)
-  - Kotlin or Java (Android)
-  - Laravel (Web)
-  - [Hugo theme development](https://gohugo.io/templates/)
-  - [Hugo](https://github.com/gohugoio/hugo) SSG (static site generator) for tech blogging
-  - native PHP (Plain PHP + HTML + CSS + JS)
-  - WordPress Theme Development
-  - WordPress blogging
-  - HTMX w/ Tailwind + ExpressJS
-
-### Next
-
-- Website : PHP/Laravel
-- Web App : Qwik
-- Web Services / Back-End : Go
-- Android Apps : Kotlin/Java or Flutter/Dart
-- Desktop Apps : Flutter/Dart
-
-### Prefered Tech Stacks
-
-- web: HTMX + Tailwind CSS + Go + PostgreSQL
-- web: PHP Laravel + PostgreSQL
-- web: Qwik
-- mobile: Flutter
-- android: Kotlin + Jetpack Compose + SQLite
-
-So, PHP JS Go Kotlin Java Dart.
-
-Interested in those programming languages : [Flutter framework](https://flutter.dev/) | [Dart language](https://dart.dev/) | [Go language](https://github.com/golang) | [Swift language](https://github.com/apple/swift) | [PHP language](https://github.com/php) | Javascript, [Typescript](https://github.com/microsoft/TypeScript), [Node.js](https://github.com/nodejs/node) (JavaScript runtime) | [Kotlin language](https://github.com/kotlin) | [Vala language](https://github.com/GNOME/vala) | Java language | [V language](https://github.com/vlang) | [Rust language](https://github.com/rust-lang) | [Zig language](https://github.com/ziglang) | [D language](https://github.com/dlang)
+- OS : [Ubuntu Linux](https://github.com/ubuntu) and [Mac OS X](https://en.wikipedia.org/wiki/MacOS)
+- Web browser : Google Chrome, Mozilla Firefox and Safari
+- to create a custom website/web app : [Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework) + PostgreSQL + [Tailwind CSS](https://tailwindcss.com/)
+- to create large-scale web app : HTMX + [Tailwind CSS](https://tailwindcss.com/) + Go + PostgreSQL
+- to create backend API : Go or Laravel
+- to create an Android app : Kotlin + Jetpack Compose + SQLite
+- to create an iOS app : [Swift](https://github.com/apple/swift) + SwiftUI
+- to create cross-platform app : [Flutter](https://github.com/flutter/flutter)
+- to create a blog : [Hugo](https://github.com/gohugoio/hugo) or [WordPress](https://github.com/WordPress/WordPress)
+- source code editors & IDEs : Android Studio, XCode, [vim](https://github.com/vim/vim), [vs code](https://github.com/microsoft/vscode), [sublime text](https://github.com/SublimeText)
+- [history] created Android apps in Java.
+- [history] created a web app in native PHP (Plain PHP + HTML + CSS + JS)
+- [history] developed a WordPress Theme
+- [history] developed Hugo theme
