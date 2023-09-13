@@ -16,10 +16,9 @@ My software motto is "Simple by default, powerful when needed".
 
 __User experience__ of my software should be __seamless__, __intuitive__ and __fun__.
 
-You do not need to be perfect to succeed, just be good/fit enough for the job.
-
 ### My aimed values :
 
+- [good enough](https://en.wikipedia.org/wiki/Survival_of_the_fittest) to get the job done
 - Clarity
 - Simplicity
 - Comprehensiveness / Comprehension
