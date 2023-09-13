@@ -98,16 +98,16 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ## Software of choice | Tech Stack of choice
 
-- OS : [Ubuntu Linux](https://github.com/ubuntu) and [Mac OS X](https://en.wikipedia.org/wiki/MacOS)
-- Web browser : Google Chrome, Mozilla Firefox and Safari
-- to create a custom website/web app : [Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework) + PostgreSQL + [Tailwind CSS](https://tailwindcss.com/)
-- to create large-scale web app : HTMX + [Tailwind CSS](https://tailwindcss.com/) + Go + PostgreSQL
-- to create backend API : Go or Laravel
-- to create an Android app : Kotlin + Jetpack Compose + SQLite
-- to create an iOS app : [Swift](https://github.com/apple/swift) + SwiftUI
-- to create cross-platform app : [Flutter](https://github.com/flutter/flutter)
-- to create a blog : [Hugo](https://github.com/gohugoio/hugo) or [WordPress](https://github.com/WordPress/WordPress)
-- source code editors & IDEs : Android Studio, XCode, [vim](https://github.com/vim/vim), [vs code](https://github.com/microsoft/vscode), [sublime text](https://github.com/SublimeText)
+- **OS** : [Ubuntu Linux](https://github.com/ubuntu) and [Mac OS X](https://en.wikipedia.org/wiki/MacOS)
+- **Web browser** : Google Chrome, Mozilla Firefox and Safari
+- **to create a custom website/web app** : [Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework) + PostgreSQL + [Tailwind CSS](https://tailwindcss.com/)
+- **to create large-scale web app** : HTMX + [Tailwind CSS](https://tailwindcss.com/) + Go + PostgreSQL
+- **to create backend API** : Go or Laravel
+- **to create an Android app** : Kotlin + Jetpack Compose + SQLite
+- **to create an iOS app** : [Swift](https://github.com/apple/swift) + SwiftUI
+- **to create cross-platform app** : [Flutter](https://github.com/flutter/flutter)
+- **to create a blog** : [Hugo](https://github.com/gohugoio/hugo) or [WordPress](https://github.com/WordPress/WordPress)
+- **source code editors & IDEs** : Android Studio, XCode, [vim](https://github.com/vim/vim), [vs code](https://github.com/microsoft/vscode), [sublime text](https://github.com/SublimeText)
 - [history] created Android apps in Java.
 - [history] created a web app in native PHP (Plain PHP + HTML + CSS + JS)
 - [history] developed a WordPress Theme
