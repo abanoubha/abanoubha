@@ -30,9 +30,9 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ## Software I Created
 
-### [Digital Business Card](https://kartbusiness.com)
+### Digital Business Card
 
-- __Project Description__ : a virtual wallet of digital business cards
+- __Project Description__ : [a virtual wallet of digital business cards - Digital Business Card](https://kartbusiness.com)
 - __Tech Stack__ :
   - website : Laravel 10 + Tailwind CSS : v1.x
   - Laravel API
