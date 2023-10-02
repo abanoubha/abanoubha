@@ -1,6 +1,6 @@
 ### Hi 👋 I am Abanoub
 
-[twitter](https://twitter.com/abanoubha)
+[𝕏 (twitter)](https://twitter.com/abanoubha)
 &nbsp; • &nbsp;
 [linkedin](https://www.linkedin.com/in/abanoub-hanna)
 &nbsp; • &nbsp;
