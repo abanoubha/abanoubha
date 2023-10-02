@@ -37,7 +37,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
   - website : Laravel 10 + Tailwind CSS : v1.x
   - Laravel API
   - PWA : Progressive Web App
-  - [Android App](https://play.google.com/store/apps/details?id=com.kartbusiness.app) ( Kotlin + Jetpack Compose )
+  - [Android App](https://play.google.com/store/apps/details?id=com.kartbusiness.app) (Flutter)(~~Kotlin + Jetpack Compose~~ )
   - iOS App ( SwiftUI )
 - [Install the app on your mobile](https://kartbusiness.com/app) from [Google Play](https://play.google.com/store/apps/details?id=com.kartbusiness.app).
 
