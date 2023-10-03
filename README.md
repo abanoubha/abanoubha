@@ -70,7 +70,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ### Pope Shenouda books
 
-- __Project Description__ : Android app to read the books written by Pope Shenouda III. **Application features and advantages**: You can use touch gestures to turn/flip the pages of the book (Touch Gestures) ✝ go to the last page you read in the last reading session ✝ very little storage/space usage (~5MB).
+- __Project Description__ : Android app to read the books written by Pope Shenouda III. **Application features and advantages**: You can use touch gestures to turn/flip the pages of the book (Touch Gestures) • go to the last page you read in the last reading session • very little storage/space usage (~5MB).
 - The application contains these books - so far -: The book of the launch of the soul • The Book of Life of Repentance and Purity • The Book of Calm • The Book of Spiritual Wars • A book of life experiences • The Book of the Creed • The Spirituality of Fasting book • The book Why the Resurrection? • Benefit word book • The Book of Ayoub Al-Siddiq, and why was his experience? • The Book of the Pascha Praise: You have the power and the glory • The Book of Priesthood • The Divinity of Christ • The Book of the Law of Monogamy in Christianity and Our Most Important Principles in Personal Status • The Book of Spirits between Religion and Spiritual Scientists • The Book of Returning to God • The Happy Spiritual Family Book.
 - __Tech Stack__ : Java
 - install the app from Google play [(Pope Shenouda books)](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks)
