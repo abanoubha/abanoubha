@@ -79,12 +79,6 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 - __Project Description__ : a tech blog in Egyptian Arabic
 
-### [sohagstores.com](https://sohagstores.com/) (not working on it anymore)
-
-- __Project Description__ : a website to find stores in Sohag, and tell people about your store.
-- __Tech Stack__ : Laravel, Flutter.
-- Install the app from [Google Play](https://play.google.com/store/apps/details?id=com.sohagstores.app).
-
 ### Agpeya - الأجبية
 
 - [open source](https://github.com/abanoubha/agpeya)
