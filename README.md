@@ -75,9 +75,9 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - __Tech Stack__ : Java
 - install the app from Google play [(Pope Shenouda books)](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks)
 
-### [Abanoub Blog](https://www.abanoubhanna.com)
+### Abanoub Hanna | Tech Blog
 
-- __Project Description__ : a tech blog in Egyptian Arabic
+- __Project Description__ : a tech blog in Egyptian Arabic. Visit [the blog here](https://www.abanoubhanna.com).
 
 ### Agpeya - الأجبية
 
