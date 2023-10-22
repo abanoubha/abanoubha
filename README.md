@@ -99,13 +99,13 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - **OS** : [Ubuntu Linux](https://github.com/ubuntu) and [Mac OS X](https://en.wikipedia.org/wiki/MacOS)
 - **Web browser** : Google Chrome, Mozilla Firefox and Safari
 - **to create a custom website/web app** : [Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework) + PostgreSQL + [Tailwind CSS](https://tailwindcss.com/)
-- **to create large-scale web app** : [HTMX](https://htmx.org/) + [Tailwind CSS](https://tailwindcss.com/) + [Go](https://go.dev) + PostgreSQL
-- **to create backend API** : [Go](https://go.dev/) or Laravel
-- **to create an Android app** : Kotlin + Jetpack Compose + SQLite
-- **to create an iOS app** : [Swift](https://github.com/apple/swift) + SwiftUI
-- **to create cross-platform app** : [Flutter](https://github.com/flutter/flutter)
-- **to create a blog** : [Hugo](https://github.com/gohugoio/hugo) or [WordPress](https://github.com/WordPress/WordPress)
-- **source code editors & IDEs** : Android Studio, XCode, [vim](https://github.com/vim/vim), [vs code](https://github.com/microsoft/vscode), [sublime text](https://github.com/SublimeText)
+- **to create large-scale web app** : [Go](https://go.dev) + [HTMX](https://htmx.org/) + [Tailwind CSS](https://tailwindcss.com/) + [Go Templ](https://github.com/a-h/templ) + db (if it is data-storage type of project, I use PostgreSQL or MariaDB. Else, I use SQLite).
+- **to create backend API** : [Go](https://go.dev/) or Laravel.
+- **to create an Android app** : if the app needs a native functionality/feature, I tend to use ( Kotlin + Jetpack Compose + SQLite ), else I tend to use [Flutter](https://flutter.dev).
+- **to create an iOS app** : [Flutter](https://flutter.dev).
+- **to create cross-platform app** : [Flutter](https://github.com/flutter/flutter).
+- **to create a blog** : [Hugo](https://github.com/gohugoio/hugo) or [WordPress](https://github.com/WordPress/WordPress).
+- **source code editors & IDEs** : Android Studio, [vim](https://github.com/vim/vim), [neoVIM](https://github.com/neovim/neovim), [vs code](https://github.com/microsoft/vscode).
 - [history] created Android apps in Java.
 - [history] created a web app in native PHP (Plain PHP + HTML + CSS + JS)
 - [history] developed a WordPress Theme
