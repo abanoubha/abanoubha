@@ -98,6 +98,10 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - project description : extract text from images and/or PDF files.
 - tech stack : [Go](https://github.com/golang/go) language, [Gio](https://github.com/gioui/gio) UI, Tesseract via gotesseract
 
+### speech to text (live transcribe)
+
+- I cancelled the project. use [Live Transcribe from Google](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) instead.
+
 ## Software of choice | Tech Stack of choice
 
 - **OS** : [Ubuntu Linux](https://github.com/ubuntu) and [Mac OS X](https://en.wikipedia.org/wiki/MacOS)
