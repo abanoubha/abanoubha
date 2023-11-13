@@ -50,8 +50,8 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ### OCR Text Scanner
 
-- _project description_ : a toolset to identify and extract text from images efficiently.
-- _app features_ :
+- __project description__ : a toolset to identify and extract text from images efficiently.
+- __app features__ :
   - [x] app in English (default)
   - [x] app in Arabic
   - [x] support English OCR
@@ -85,8 +85,8 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
   - [ ] save extracted text as plain text file `.txt`
   - [ ] Automatic cropping and recognition function as a default behavior (auto)
   - [ ] Ability to edit image before/after running OCR on it (manual)
-- _tech stack_ : Flutter, Tesseract.
-- _install the app from_ : [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.ocr)
+- __tech stack__ : Flutter, Tesseract.
+- __install the app from__ : [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.ocr)
 
 ### Image to Text OCR Text Scanner App
 
