@@ -55,31 +55,10 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ### OCR Text Scanner
 
-- __project description__ : a toolset to identify and extract text from images efficiently.
+- a toolset to identify and extract text from images efficiently.
+- __supported languages in the app UI (user interface)__: English (default), Arabic. 
+- __supported languages to OCR__ : English (default), Arabic, Hindi (Indian language), Farsi (Persian language), Catalan, Danish, Dutch, Finnish, French, German, Hungarian, Italian, Latin, Norwegian, Polish, Portuguese, Romanian, Romanian, Spanish, Swedish, Tagalog, Turkish.
 - __app features__ :
-  - [x] app in English (default)
-  - [x] app in Arabic
-  - [x] support English OCR
-  - [x] support Arabic OCR
-  - [x] support Hindi ( Indian language ) OCR
-  - [x] support Farsi ( Persian language ) OCR
-  - [x] support Catalan OCR
-  - [x] support Danish OCR
-  - [x] support Dutch OCR
-  - [x] support Finnish OCR
-  - [x] support French OCR
-  - [x] support German OCR
-  - [x] support Hungarian OCR
-  - [x] support Italian OCR
-  - [x] support Latin OCR
-  - [x] support Norwegian OCR
-  - [x] support Polish OCR
-  - [x] support Portuguese OCR
-  - [x] support Romanian OCR
-  - [x] support Spanish OCR
-  - [x] support Swedish OCR
-  - [x] support Tagalog OCR
-  - [x] support Turkish OCR
   - [x] works offline (without internet connection)
   - [x] Ability to edit extracted text in the app
   - [ ] uses three color coded accuracy ( white/black +90% accuracy & purple 80-90% & red -80%)
