@@ -110,10 +110,10 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - __project description__ : daily tasks and money records, show year, show month, show week, show day.
 - Install The App : available for public testing/testers and early adopters on Google Play.
 
-### Value In Brief
+### ~~Value In Brief~~
 
-- __Project Description__ : A Tech Blog in English about Go, Flutter, Dart, PHP, Laravel,.. and more. Visit [value in brief](https://valueinbrief.com) and see if you like it.
-- __Tech Stack__ : [Hugo](https://github.com/gohugoio/hugo) the popular static site generator (SSG), Markdown `.md`.
+- this tech blog is discontinued, and all content is moved into [my bilingual tech blog here](https://abanoubhanna.com/).
+- __Tech Stack__ : [Hugo](https://github.com/gohugoio/hugo) the popular static site generator (SSG), Markdown `.md` files, [Kmt Hugo theme](https://github.com/abanoubha/gohugo-theme-kmt).
 
 ### Pope Shenouda books
 
