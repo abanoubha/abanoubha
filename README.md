@@ -74,19 +74,19 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ### Image to Text OCR Text Scanner App
 
-- __Project Description__ : a tool to identify and extract text from images efficiently. This app currently supports extracts text in Arabic and English, but in the near future other languages will be added/supported. **features and advantages** : works without internet (offline) • identifies English and Arabic languages at the same time on the same image • uses three color coded accuracy ( white/black +90% accuracy & purple 80-90% & red -80%) • OCR processing speed depends on your smartphone capabilities. **_work-in-progress_ features** : support Hindi ( Indian language ) • support Farsi ( Persian language ) • save OCR history (aka : Detailed scanned images history) • batch processing OCR on many images at once (concurrently) • save extracted text as PDF • choose more than one image to OCR • Ability to edit extracted text in the app • Automatic cropping and recognition function as a default behavior (auto) • Ability to edit image before/after running OCR on it (manual) • Convert PDF to PNG image • Convert Text to PDF document • Convert JPG to PDF file • Crop Image for PDF document.
-- __Tech Stack__ : Java, Kotlin, Tesseract lib
+- a tool to identify and extract text from images efficiently. This app currently supports extracts text in Arabic and English, but in the near future other languages will be added/supported. **features and advantages** : works without internet (offline) • identifies English and Arabic languages at the same time on the same image • uses three color coded accuracy ( white/black +90% accuracy & purple 80-90% & red -80%) • OCR processing speed depends on your smartphone capabilities. **_work-in-progress_ features** : support Hindi ( Indian language ) • support Farsi ( Persian language ) • save OCR history (aka : Detailed scanned images history) • batch processing OCR on many images at once (concurrently) • save extracted text as PDF • choose more than one image to OCR • Ability to edit extracted text in the app • Automatic cropping and recognition function as a default behavior (auto) • Ability to edit image before/after running OCR on it (manual) • Convert PDF to PNG image • Convert Text to PDF document • Convert JPG to PDF file • Crop Image for PDF document.
+- __Tech Stack__ : Java, Kotlin, Tesseract lib.
 - Install The App : [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069), [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin), [Persian OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian), [Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi).
 - [IMG2TXT OCR Text Scanner for images & PDF (English & Arabic)](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt) will be the go-to app for OCR as I am planning to support Arabic, English, Hindi/Indian, Persian/Farsi, All-latin languages. OCR images or PDF.
 
 ### Smart POS (WIP)
 
-- __project description__ : Point of sale App
+- Point of sale App
 - Install The App : available for public testing/testers and early adopters on Google Play.
 
 ### TimeGrid (WIP)
 
-- __project description__ : daily tasks and money records, show year, show month, show week, show day.
+- daily tasks and money records, show year, show month, show week, show day.
 - Install The App : available for public testing/testers and early adopters on Google Play.
 
 ### ~~Value In Brief~~
@@ -96,9 +96,9 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ### Pope Shenouda books
 
-- __Project Description__ : Android app to read the books written by Pope Shenouda III. **Application features and advantages**: You can use touch gestures to turn/flip the pages of the book (Touch Gestures) • go to the last page you read in the last reading session • very little storage/space usage (~5MB).
+- Android app to read the books written by Pope Shenouda III. **Application features and advantages**: You can use touch gestures to turn/flip the pages of the book (Touch Gestures) • go to the last page you read in the last reading session • very little storage/space usage (~5MB).
 - The application contains these books - so far -: The book of the launch of the soul • The Book of Life of Repentance and Purity • The Book of Calm • The Book of Spiritual Wars • A book of life experiences • The Book of the Creed • The Spirituality of Fasting book • The book Why the Resurrection? • Benefit word book • The Book of Ayoub Al-Siddiq, and why was his experience? • The Book of the Pascha Praise: You have the power and the glory • The Book of Priesthood • The Divinity of Christ • The Book of the Law of Monogamy in Christianity and Our Most Important Principles in Personal Status • The Book of Spirits between Religion and Spiritual Scientists • The Book of Returning to God • The Happy Spiritual Family Book.
-- __Tech Stack__ : Java
+- __Tech Stack__ : Java, SQLite (read about the change from plain text files >> to >> sqlite db here)
 - install the app from Google play [(Pope Shenouda books)](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks)
 
 ### Abanoub Hanna | Bilingual Tech Blog
@@ -122,8 +122,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ### Coptic OCR
 
-- [open source](https://github.com/abanoubha/coptic-ocr.git)
-- project description: [tesseract-ocr](https://tesseract-ocr.github.io/tessdoc/Data-Files.html) do not include Coptic in their models, so I am trying to support it.
+- [tesseract-ocr](https://tesseract-ocr.github.io/tessdoc/Data-Files.html) do not include Coptic in their models, so I am trying to support it. It is [open source & shared on GitHub](https://github.com/abanoubha/coptic-ocr.git).
 
 ### speech to text (live transcribe)
 
