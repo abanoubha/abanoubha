@@ -43,6 +43,11 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
   - iOS App ( SwiftUI )
 - [Install the app on your mobile](https://kartbusiness.com/app) from [Google Play](https://play.google.com/store/apps/details?id=com.kartbusiness.app).
 
+## Kmt : Hugo Theme
+
+- Kmt is a [Hugo](https://gohugo.io/) theme. It is named after [the ancient name of Egypt](https://en.wikipedia.org/wiki/Egypt#Names) (my home country).
+- [Kmt is open source](https://github.com/abanoubha/gohugo-theme-kmt)
+
 ### Loka Stores
 
 - [Loka ecommerce website](https://lokastores.com)
