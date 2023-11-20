@@ -138,6 +138,11 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - project description : extract text from images and/or PDF files.
 - tech stack : [Go](https://github.com/golang/go) language, [Gio](https://github.com/gioui/gio) UI, Tesseract via gotesseract
 
+### Coptic OCR
+
+- [open source](https://github.com/abanoubha/coptic-ocr.git)
+- project description: [tesseract-ocr](https://tesseract-ocr.github.io/tessdoc/Data-Files.html) do not include Coptic in their models, so I am trying to support it.
+
 ### speech to text (live transcribe)
 
 - I cancelled the project. use [Live Transcribe from Google](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) instead.
