@@ -10,7 +10,7 @@
 &nbsp; • &nbsp;
 [Facebook](https://www.facebook.com/AbanoubHannaDotCom)
 &nbsp; • &nbsp;
-[CV • Résumé • Portfolio](https://abanoubhanna.netlify.app/me)
+[CV • Résumé • Portfolio](https://abanoubhanna.com/me)
 
 As [Newton said](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) : "If I have seen further it is by standing on the shoulders of Giants". So if you consider my projects helpful, it is by standing on the shoulders of giants — in the open source community.
 
