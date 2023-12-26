@@ -128,6 +128,10 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 - I cancelled the project. use [Live Transcribe from Google](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) instead.
 
+### cleanText
+
+- an [open source](https://github.com/abanoubha/cleanText) tool to normalize text (convert special chars to normal chars such as `àáâ` into `aaa`)
+
 ## Software of choice | Tech Stack of choice
 
 - **OS** : [Ubuntu Linux](https://github.com/ubuntu) and [Mac OS X](https://en.wikipedia.org/wiki/MacOS)
