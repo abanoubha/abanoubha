@@ -1,4 +1,4 @@
-### Hi 👋 I am Abanoub
+# Hi 👋 I am Abanoub
 
 [YouTube](https://www.youtube.com/@abanoubha)
 &nbsp; • &nbsp;
@@ -18,7 +18,7 @@ My software motto is "Simple by default, powerful when needed".
 
 __User experience__ of my software should be __seamless__, __intuitive__ and __fun__.
 
-### My aimed values :
+## My aimed values
 
 - [good enough](https://en.wikipedia.org/wiki/Survival_of_the_fittest) to get the job done
 - Clarity
@@ -56,7 +56,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 ### OCR Text Scanner
 
 - a toolset to identify and extract text from images efficiently.
-- __supported languages in the app UI (user interface)__: English (default), Arabic. 
+- __supported languages in the app UI (user interface)__: English (default), Arabic.
 - __supported languages to OCR__ : English (default), Arabic, Hindi (Indian language), Farsi (Persian language), Catalan, Danish, Dutch, Finnish, French, German, Hungarian, Italian, Latin, Norwegian, Polish, Portuguese, Romanian, Romanian, Spanish, Swedish, Tagalog, Turkish.
 - __app features__ :
   - [x] works offline (without internet connection)
@@ -74,7 +74,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ### Image to Text OCR Text Scanner App
 
-- a tool to identify and extract text from images efficiently. This app currently supports extracts text in Arabic and English, but in the near future other languages will be added/supported. **features and advantages** : works without internet (offline) • identifies English and Arabic languages at the same time on the same image • uses three color coded accuracy ( white/black +90% accuracy & purple 80-90% & red -80%) • OCR processing speed depends on your smartphone capabilities. **_work-in-progress_ features** : support Hindi ( Indian language ) • support Farsi ( Persian language ) • save OCR history (aka : Detailed scanned images history) • batch processing OCR on many images at once (concurrently) • save extracted text as PDF • choose more than one image to OCR • Ability to edit extracted text in the app • Automatic cropping and recognition function as a default behavior (auto) • Ability to edit image before/after running OCR on it (manual) • Convert PDF to PNG image • Convert Text to PDF document • Convert JPG to PDF file • Crop Image for PDF document.
+- a tool to identify and extract text from images efficiently. This app currently supports extracts text in Arabic and English, but in the near future other languages will be added/supported. __features and advantages__ : works without internet (offline) • identifies English and Arabic languages at the same time on the same image • uses three color coded accuracy ( white/black +90% accuracy & purple 80-90% & red -80%) • OCR processing speed depends on your smartphone capabilities. ___work-in-progress_ features__ : support Hindi ( Indian language ) • support Farsi ( Persian language ) • save OCR history (aka : Detailed scanned images history) • batch processing OCR on many images at once (concurrently) • save extracted text as PDF • choose more than one image to OCR • Ability to edit extracted text in the app • Automatic cropping and recognition function as a default behavior (auto) • Ability to edit image before/after running OCR on it (manual) • Convert PDF to PNG image • Convert Text to PDF document • Convert JPG to PDF file • Crop Image for PDF document.
 - __Tech Stack__ : Java, Kotlin, Tesseract lib.
 - Install The App : [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069), [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin), [Persian OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian), [Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi).
 - [IMG2TXT OCR Text Scanner for images & PDF (English & Arabic)](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt) will be the go-to app for OCR as I am planning to support Arabic, English, Hindi/Indian, Persian/Farsi, All-latin languages. OCR images or PDF.
@@ -96,7 +96,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ### Pope Shenouda books
 
-- Android app to read the books written by Pope Shenouda III. **Application features and advantages**: You can use touch gestures to turn/flip the pages of the book (Touch Gestures) • go to the last page you read in the last reading session • very little storage/space usage (~5MB).
+- Android app to read the books written by Pope Shenouda III. __Application features and advantages__: You can use touch gestures to turn/flip the pages of the book (Touch Gestures) • go to the last page you read in the last reading session • very little storage/space usage (~5MB).
 - The application contains these books - so far -: The book of the launch of the soul • The Book of Life of Repentance and Purity • The Book of Calm • The Book of Spiritual Wars • A book of life experiences • The Book of the Creed • The Spirituality of Fasting book • The book Why the Resurrection? • Benefit word book • The Book of Ayoub Al-Siddiq, and why was his experience? • The Book of the Pascha Praise: You have the power and the glory • The Book of Priesthood • The Divinity of Christ • The Book of the Law of Monogamy in Christianity and Our Most Important Principles in Personal Status • The Book of Spirits between Religion and Spiritual Scientists • The Book of Returning to God • The Happy Spiritual Family Book.
 - __Tech Stack__ : Java, SQLite (read about the change from plain text files >> to >> sqlite db here)
 - install the app from Google play [(Pope Shenouda books)](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks)
@@ -134,16 +134,16 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ## Software of choice | Tech Stack of choice
 
-- **OS** : [Ubuntu Linux](https://github.com/ubuntu) and [Mac OS X](https://en.wikipedia.org/wiki/MacOS)
-- **Web browser** : Google Chrome, Mozilla Firefox and Safari
-- **to create a custom website/web app** : [Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework) + PostgreSQL + [Tailwind CSS](https://tailwindcss.com/)
-- **to create large-scale web app** : [Go](https://go.dev) + [HTMX](https://htmx.org/) + [Tailwind CSS](https://tailwindcss.com/) + [Go Templ](https://github.com/a-h/templ) + db (if it is data-storage type of project, I use PostgreSQL or MariaDB. Else, I use SQLite).
-- **to create backend API** : [Go](https://go.dev/) or Laravel.
-- **to create an Android app** : if the app needs a native functionality/feature, I tend to use ( Kotlin + Jetpack Compose + SQLite ), else I tend to use [Flutter](https://flutter.dev).
-- **to create an iOS app** : [Flutter](https://flutter.dev).
-- **to create cross-platform app** : [Flutter](https://github.com/flutter/flutter).
-- **to create a blog** : [Hugo](https://github.com/gohugoio/hugo) or [WordPress](https://github.com/WordPress/WordPress).
-- **source code editors & IDEs** : Android Studio, [vim](https://github.com/vim/vim), [neoVIM](https://github.com/neovim/neovim), [vs code](https://github.com/microsoft/vscode).
+- __OS__ : [Ubuntu Linux](https://github.com/ubuntu) and [Mac OS X](https://en.wikipedia.org/wiki/MacOS)
+- __Web browser__ : Google Chrome, Mozilla Firefox and Safari
+- __to create a custom website/web app__ : [Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework) + PostgreSQL + [Tailwind CSS](https://tailwindcss.com/)
+- __to create large-scale web app__ : [Go](https://go.dev) + [HTMX](https://htmx.org/) + [Tailwind CSS](https://tailwindcss.com/) + [Go Templ](https://github.com/a-h/templ) + db (if it is data-storage type of project, I use PostgreSQL or MariaDB. Else, I use SQLite).
+- __to create backend API__ : [Go](https://go.dev/) or Laravel.
+- __to create an Android app__ : if the app needs a native functionality/feature, I tend to use ( Kotlin + Jetpack Compose + SQLite ), else I tend to use [Flutter](https://flutter.dev).
+- __to create an iOS app__ : [Flutter](https://flutter.dev).
+- __to create cross-platform app__ : [Flutter](https://github.com/flutter/flutter).
+- __to create a blog__ : [Hugo](https://github.com/gohugoio/hugo) or [WordPress](https://github.com/WordPress/WordPress).
+- __source code editors & IDEs__ : Android Studio, [vim](https://github.com/vim/vim), [neoVIM](https://github.com/neovim/neovim), [vs code](https://github.com/microsoft/vscode).
 - [history] created Android apps in Java.
 - [history] created a web app in native PHP (Plain PHP + HTML + CSS + JS)
 - [history] developed a WordPress Theme
