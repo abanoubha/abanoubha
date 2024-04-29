@@ -143,7 +143,11 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - __to create an iOS app__ : [Flutter](https://flutter.dev).
 - __to create cross-platform app__ : [Flutter](https://github.com/flutter/flutter).
 - __to create a blog__ : [Hugo](https://github.com/gohugoio/hugo) or [WordPress](https://github.com/WordPress/WordPress).
-- __source code editors & IDEs__ : Android Studio, [vim](https://github.com/vim/vim), [neoVIM](https://github.com/neovim/neovim), [vs code](https://github.com/microsoft/vscode).
+- __source code editors & IDEs__ :
+  - Android Studio
+  - vim
+  - neovim (a.k.a nvim): [init.lua : my simple config](https://gist.github.com/abanoubha/7aaf5ff87d8772d7d8a456a42c0bfaac)
+  - visual studio code (a.k.a vscode)
 - [history] created Android apps in Java.
 - [history] created a web app in native PHP (Plain PHP + HTML + CSS + JS)
 - [history] developed a WordPress Theme
