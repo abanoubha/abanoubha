@@ -18,18 +18,6 @@ My software motto is "Simple by default, powerful when needed".
 
 __User experience__ of my software should be __seamless__, __intuitive__ and __fun__.
 
-## My aimed values
-
-- [good enough](https://en.wikipedia.org/wiki/Survival_of_the_fittest) to get the job done
-- Clarity
-- Simplicity
-- Comprehensiveness / Comprehension
-- Performance (at the speed of thought)
-- Familiarity
-- Easeness / Restness (less cognitive overload)
-- minimalist and focused (not essentialist)
-- consistency
-
 ## Software I Created
 
 ### Digital Business Card
