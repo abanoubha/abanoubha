@@ -136,11 +136,19 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 - __OS__ : [Ubuntu Linux](https://github.com/ubuntu) and [Mac OS X](https://en.wikipedia.org/wiki/MacOS)
 - __Web browser__ : Google Chrome, Mozilla Firefox and Safari
-- __to create a custom website/web app__ : [Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework) + PostgreSQL + [Tailwind CSS](https://tailwindcss.com/)
-- __to create large-scale web app__ : [Go](https://go.dev) + [HTMX](https://htmx.org/) + [Tailwind CSS](https://tailwindcss.com/) + [Go Templ](https://github.com/a-h/templ) + db (if it is data-storage type of project, I use PostgreSQL or MariaDB. Else, I use SQLite).
+- __to create a custom website/web app__ :
+  - [Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework)
+  - PostgreSQL
+  - [Tailwind CSS](https://tailwindcss.com/)
+- __to create large-scale web app__ :
+  - [Go](https://go.dev)
+  - [HTMX](https://htmx.org/)
+  - [Tailwind CSS](https://tailwindcss.com/)
+  - [Go Templ](https://github.com/a-h/templ)
+  - db (if it is data-storage type of project, I use PostgreSQL or MariaDB. Else, I use SQLite).
 - __to create backend API__ : [Go](https://go.dev/) or Laravel.
-- __to create an Android app__ : if the app needs a native functionality/feature, I tend to use ( Kotlin + Jetpack Compose + SQLite ), else I tend to use [Flutter](https://flutter.dev).
-- __to create an iOS app__ : [Flutter](https://flutter.dev).
+- __to create an Android app__ : if the app needs a native functionality/feature, I tend to use ( Kotlin + Jetpack Compose + SQLite ), else I tend to use [Flutter].
+- __to create an iOS app__ : [Flutter]
 - __to create cross-platform app__ : [Flutter](https://github.com/flutter/flutter).
 - __to create a blog__ : [Hugo](https://github.com/gohugoio/hugo) or [WordPress](https://github.com/WordPress/WordPress).
 - __source code editors & IDEs__ :
@@ -152,3 +160,6 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - [history] created a web app in native PHP (Plain PHP + HTML + CSS + JS)
 - [history] developed a WordPress Theme
 - [history] developed Hugo theme
+
+[Go](https://go.dev)
+[Flutter](https://flutter.dev)
