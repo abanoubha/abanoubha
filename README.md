@@ -119,6 +119,10 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 - an [open source](https://github.com/abanoubha/cleanText) tool to normalize text (convert special chars to normal chars such as `àáâ` into `aaa`)
 
+### gobrew
+
+- [opensource](https://github.com/abanoubha/gobrew) CLI app written in Go to show count of all programs written in X language or Y build system in Homebrew Core formulae.
+
 ## Software of choice | Tech Stack of choice
 
 - __OS__ :
