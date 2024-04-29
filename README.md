@@ -134,32 +134,42 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ## Software of choice | Tech Stack of choice
 
-- __OS__ : [Ubuntu Linux](https://github.com/ubuntu) and [Mac OS X](https://en.wikipedia.org/wiki/MacOS)
-- __Web browser__ : Google Chrome, Mozilla Firefox and Safari
+- __OS__ :
+  - Ubuntu Linux
+  - Mac OS X
+- __Web browser__ :
+  - Google Chrome
+  - Mozilla Firefox
+  - Apple Safari
 - __to create a custom website/web app__ :
-  - [Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework)
+  - Larave
   - PostgreSQL
-  - [Tailwind CSS](https://tailwindcss.com/)
+  - Tailwind CSS
 - __to create large-scale web app__ :
-  - [Go](https://go.dev)
-  - [HTMX](https://htmx.org/)
-  - [Tailwind CSS](https://tailwindcss.com/)
-  - [Go Templ](https://github.com/a-h/templ)
+  - Go
+  - HTMX
+  - Tailwind CSS
+  - Go Templ
   - db (if it is data-storage type of project, I use PostgreSQL or MariaDB. Else, I use SQLite).
-- __to create backend API__ : [Go](https://go.dev/) or Laravel.
-- __to create an Android app__ : if the app needs a native functionality/feature, I tend to use ( Kotlin + Jetpack Compose + SQLite ), else I tend to use [Flutter].
-- __to create an iOS app__ : [Flutter]
-- __to create cross-platform app__ : [Flutter](https://github.com/flutter/flutter).
-- __to create a blog__ : [Hugo](https://github.com/gohugoio/hugo) or [WordPress](https://github.com/WordPress/WordPress).
+- __to create backend API__ :
+  - Go
+  - Laravel.
+- __to create an Android app__ :
+  - if the app needs a native functionality/feature, I tend to use ( Kotlin + Jetpack Compose + SQLite ), else I tend to use Flutter.
+- __to create an iOS app__ :
+  - Flutter
+- __to create cross-platform app__ :
+  - Flutter
+- __to create a blog__ :
+  - Hugo
+  - WordPress.
 - __source code editors & IDEs__ :
   - Android Studio
   - vim
   - neovim (a.k.a nvim): [init.lua : my simple config](https://gist.github.com/abanoubha/7aaf5ff87d8772d7d8a456a42c0bfaac)
   - visual studio code (a.k.a vscode)
-- [history] created Android apps in Java.
+- developed [Hugo theme](https://github.com/abanoubha/gohugo-theme-kmt)
+- [history] created Android apps in Java. for example, [Agpeya Android app](https://github.com/abanoubha/agpeya).
 - [history] created a web app in native PHP (Plain PHP + HTML + CSS + JS)
 - [history] developed a WordPress Theme
-- [history] developed Hugo theme
 
-[Go](https://go.dev)
-[Flutter](https://flutter.dev)
