@@ -156,7 +156,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
   - WordPress.
 - __source code editors & IDEs__ :
   - Android Studio
-  - vim
+  - vim: [.vimrc : my simple config](https://gist.github.com/abanoubha/3ace670cf05b931368557e55872a0df2)
   - neovim (a.k.a nvim): [init.lua : my simple config](https://gist.github.com/abanoubha/7aaf5ff87d8772d7d8a456a42c0bfaac)
   - visual studio code (a.k.a vscode)
 - developed [Hugo theme](https://github.com/abanoubha/gohugo-theme-kmt)
