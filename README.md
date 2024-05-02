@@ -141,6 +141,10 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 - *i* is an abstraction over all package managers. [The *i* project](https://github.com/abanoubha/i) is **discontinued** because there is a good alternative called [upt](https://github.com/sigoden/upt).
 
+### docseng
+
+Local search engine for offline docs. [docseng](https://github.com/abanoubha/docseng) is short for (doc)umentation (se)arch (eng)ine.
+
 ### OCR SaaS
 
 - supported languages
