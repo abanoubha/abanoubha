@@ -100,7 +100,7 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 ### Bible - الكتاب المقدس
 
-- I cancelled the project. use [this bible app](https://play.google.com/store/apps/details?id=net.alketabalmokadas.app) instead.
+- I discontinued [the project](https://github.com/abanoubha/bible). Use [this bible app](https://play.google.com/store/apps/details?id=net.alketabalmokadas.app) instead.
 
 ### OCR
 
