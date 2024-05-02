@@ -141,6 +141,27 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 - *i* is an abstraction over all package managers. [The *i* project](https://github.com/abanoubha/i) is **discontinued** because there is a good alternative called [upt](https://github.com/sigoden/upt).
 
+### OCR SaaS
+
+- supported languages
+  - [ ] English
+  - [ ] Arabic
+  - [ ] Farsi (Persian)
+  - [ ] Hindi (Indian)
+- supported file formats
+  - [ ] JPG / JPEG
+  - [ ] PNG
+  - [ ] PDF (monopage, multipage)
+  - [ ] WEBP
+  - [ ] HEIC
+  - [ ] AVIF
+- supported sources
+  - [ ] file upload
+  - [ ] web url
+- [ ] color coded accuracy
+- [ ] tasks queue with priority
+- [ ] dedicated page to show status of all functionalities/features accuracy/status
+
 ## Software of choice | Tech Stack of choice
 
 - __OS__ :
