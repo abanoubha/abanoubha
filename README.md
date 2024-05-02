@@ -59,12 +59,23 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - __tech stack__ : Flutter, Tesseract.
 - __install the app from__ : [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.ocr)
 
-### Image to Text OCR Text Scanner App
+### IMG2TXT OCR
 
-- a tool to identify and extract text from images efficiently. This app currently supports extracts text in Arabic and English, but in the near future other languages will be added/supported. __features and advantages__ : works without internet (offline) • identifies English and Arabic languages at the same time on the same image • uses three color coded accuracy ( white/black +90% accuracy & purple 80-90% & red -80%) • OCR processing speed depends on your smartphone capabilities. ___work-in-progress_ features__ : support Hindi ( Indian language ) • support Farsi ( Persian language ) • save OCR history (aka : Detailed scanned images history) • batch processing OCR on many images at once (concurrently) • save extracted text as PDF • choose more than one image to OCR • Ability to edit extracted text in the app • Automatic cropping and recognition function as a default behavior (auto) • Ability to edit image before/after running OCR on it (manual) • Convert PDF to PNG image • Convert Text to PDF document • Convert JPG to PDF file • Crop Image for PDF document.
-- __Tech Stack__ : Java, Kotlin, Tesseract lib.
-- Install The App : [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069), [Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin), [Persian OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian), [Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi).
-- [IMG2TXT OCR Text Scanner for images & PDF (English & Arabic)](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt) will be the go-to app for OCR as I am planning to support Arabic, English, Hindi/Indian, Persian/Farsi, All-latin languages. OCR images or PDF.
+- After 7+ years in production, I [opensourced](https://github.com/abanoubha/img2txt_app) the project.
+- Tech Stack: Kotlin • Tesseract lib.
+- Image to Text OCR Text Scanner App • a tool to identify and extract text from images efficiently.
+- Supported languages: Arabic • English.
+- features and advantages:
+  - works without internet (offline)
+  - identifies English and Arabic languages at the same time on the same image
+  - uses three color coded accuracy: white/black +90% accuracy • purple 80-90% • red -80%
+  - OCR processing speed depends on your smartphone capabilities
+- Install The App:
+  - [IMG2TXT OCR Latin-based Languages - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin)
+  - [Persian OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian)
+  - [Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi)
+  - [IMG2TXT OCR English/Arabic - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt)
+  - [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069)
 
 ### Smart POS (WIP)
 
