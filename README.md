@@ -134,6 +134,10 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 
 - [opensource](https://github.com/abanoubha/gobrew) CLI app written in Go to show count of all programs written in X language or Y build system in Homebrew Core formulae.
 
+### i
+
+- *i* is an abstraction over all package managers. [The *i* project](https://github.com/abanoubha/i) is **discontinued** because there is a good alternative called [upt](https://github.com/sigoden/upt).
+
 ## Software of choice | Tech Stack of choice
 
 - __OS__ :
