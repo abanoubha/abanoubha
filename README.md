@@ -87,10 +87,13 @@ __User experience__ of my software should be __seamless__, __intuitive__ and __f
 - daily tasks and money records, show year, show month, show week, show day.
 - Install The App : available for public testing/testers and early adopters on Google Play.
 
-### ~~Value In Brief~~
+### Value In Brief
 
-- this tech blog is discontinued, and all content is moved into [my bilingual tech blog here](https://abanoubhanna.com/).
-- __Tech Stack__ : [Hugo](https://github.com/gohugoio/hugo) the popular static site generator (SSG), Markdown `.md` files, [Kmt Hugo theme](https://github.com/abanoubha/gohugo-theme-kmt).
+- This tech blog is **discontinued**, and all content is moved into [my bilingual tech blog here](https://abanoubhanna.com/).
+- Tech Stack:
+  - Hugo the popular static site generator (SSG)
+  - Content as Markdown `.md` files
+  - [Kmt Hugo theme](https://github.com/abanoubha/gohugo-theme-kmt)
 
 ### Pope Shenouda books
 
