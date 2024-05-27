@@ -110,9 +110,13 @@ I am in the __top GitHub users__ by __total contributions__, & by __public contr
 
 ### Agpeya - الأجبية
 
-- an Arabic book of prayers for Coptic Orthodox Church. The app is [open source](https://github.com/abanoubha/agpeya) here on GitHub.
+- An Arabic book of prayers for Coptic Orthodox Church.
+- [open source](https://github.com/abanoubha/agpeya) here on GitHub.
+- app size is around 1.3MB
+- supports all Android versions from Android 5.1 up to the latest Android 14
 - __Tech Stack__ : Java, SQLite.
-- [Install Agpeya app from Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya) or [AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000).
+- [Install Agpeya app from Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya) (uptodate)
+  - or [AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000) (old version).
 
 ### Bible - الكتاب المقدس
 
