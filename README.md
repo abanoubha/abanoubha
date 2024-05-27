@@ -18,6 +18,12 @@ My software motto is "Simple by default, powerful when needed".
 
 __User experience__ of my software should be __seamless__, __intuitive__ and __fun__.
 
+#7 in the top GitHub users by total contributions in Egypt*
+&nbsp; • &nbsp;
+#48 in the top GitHub users by public contributions in Egypt*
+
+\* source: [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/egypt.md)
+
 ## Software I Created
 
 ### Digital Business Card
