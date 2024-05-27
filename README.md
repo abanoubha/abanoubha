@@ -111,7 +111,7 @@ I am in the __top GitHub users__ by __total contributions__, & by __public contr
 ### Agpeya - الأجبية
 
 - An Arabic book of prayers for Coptic Orthodox Church.
-- [open source](https://github.com/abanoubha/agpeya) here on GitHub.
+- open source on [GitHub](https://github.com/abanoubha/agpeya).
 - app size is around 1.3MB
 - supports all Android versions from Android 5.1 up to the latest Android 14
 - __Tech Stack__ : Java, SQLite.
