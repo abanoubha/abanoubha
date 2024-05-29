@@ -145,7 +145,7 @@ I am in the __top GitHub users__ by __total contributions__, & by __public contr
 
 ### i
 
-- *i* is an abstraction over all package managers. [The *i* project](https://github.com/abanoubha/i) is **discontinued** because there is a good alternative called [upt](https://github.com/sigoden/upt).
+- *i* is an abstraction over all package managers. [The *i* project](https://github.com/abanoubha/i) is open source (OSS), written in Go language.
 
 ### docseng (a.k.a docse)
 
