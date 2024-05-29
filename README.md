@@ -70,14 +70,22 @@ I am in the __top GitHub users__ by __total contributions__, & by __public contr
 - features and advantages:
   - works without internet (offline)
   - identifies English and Arabic languages at the same time on the same image
-  - uses three color coded accuracy: white/black +90% accuracy • purple 80-90% • red -80%
+  - uses three color coded accuracy: white/black +90% accuracy • purple 80-90% • red 50-80% • 0-50% discarded
   - OCR processing speed depends on your smartphone capabilities
+  - use ML Kit or Google Vision if available, else use Tesseract OCR
+  - let the app user choose the text language {Arabic, English, Arabic+English}
+  - edit the extracted text
+  - copy the recognized text
 - Install The App:
+  - [IMG2TXT OCR English/Arabic - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt): latest release is [v2.7.0](https://github.com/abanoubha/img2txt_app/releases/tag/2.7.0)
   - [IMG2TXT OCR Latin-based Languages - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin)
+    - No longer maintained. Use img2txt OCR app and choose 'English' and it will work on all Latin scripted languages.
   - [Persian OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian)
+    - No longer maintained. I will add Persian/Farsi language to img2txt app soon.
   - [Hindi OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi)
-  - [IMG2TXT OCR English/Arabic - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt)
+    - No longer maintained. I will add Indian/Hindi language to img2txt app soon.
   - [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069)
+    - Old version. Just download the latest version of img2txt OCR app from [GitHub](https://github.com/abanoubha/img2txt_app/releases/) if your smartphone does not support Google Play.
 
 ### Smart POS (WIP)
 
