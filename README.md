@@ -77,7 +77,7 @@ I am in the __top GitHub users__ by __total contributions__, & by __public contr
   - edit the extracted text
   - copy the recognized text
 - Install The App:
-  - [IMG2TXT OCR English/Arabic - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt): latest release is [v2.7.0](https://github.com/abanoubha/img2txt_app/releases/tag/2.7.0)
+  - [IMG2TXT OCR English/Arabic - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt): [latest release](https://github.com/abanoubha/img2txt_app/releases)
   - [IMG2TXT OCR Latin-based Languages - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.latin)
     - No longer maintained. Use img2txt OCR app and choose 'English' and it will work on all Latin scripted languages.
   - [Persian OCR - Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian)
