@@ -87,15 +87,28 @@ I am in the __top GitHub users__ by __total contributions__, & by __public contr
   - [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069)
     - Old version. Just download the latest version of img2txt OCR app from [GitHub](https://github.com/abanoubha/img2txt_app/releases/) if your smartphone does not support Google Play.
 
-### Smart POS (WIP)
-
-- Point of sale App
-- Install The App : available for public testing/testers and early adopters on Google Play.
-
 ### TimeGrid (WIP)
 
+PoC (current state) -> MVP -> Production (ready to be used)
+
+Features and functionalities:
+
+- POS: point of sale
+- CRM: customer relations management
+- time managements
 - daily tasks and money records, show year, show month, show week, show day.
-- Install The App : available for public testing/testers and early adopters on Google Play.
+- docs/notes/brainstorming
+- timers (such as pomodoro)
+
+Supported Platforms:
+
+- Android phones
+- Android Tablets
+- iPhone (iOS)
+- iPad (OS)
+- Windows
+- macOS
+- Linux {snapcraft, flatpak, appimage}
 
 ### Value In Brief
 
