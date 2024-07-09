@@ -87,9 +87,11 @@ I am in the __top GitHub users__ by __total contributions__, & by __public contr
   - [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069)
     - Old version. Just download the latest version of img2txt OCR app from [GitHub](https://github.com/abanoubha/img2txt_app/releases/) if your smartphone does not support Google Play.
 
-### [TimeGrid](https://abanoubhanna.com/posts/timegrid/)
+### TimeGrid
 
 PoC | Prototype (current state) -> MVP -> Production (ready to be used)
+
+Read [TimeGrid roadmap](https://abanoubhanna.com/posts/timegrid/) for more detailed information.
 
 Features and functionalities:
 
