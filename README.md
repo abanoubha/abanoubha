@@ -87,14 +87,14 @@ I am in the __top GitHub users__ by __total contributions__, & by __public contr
   - [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069)
     - Old version. Just download the latest version of img2txt OCR app from [GitHub](https://github.com/abanoubha/img2txt_app/releases/) if your smartphone does not support Google Play.
 
-### TimeGrid (WIP)
+### [TimeGrid](https://abanoubhanna.com/posts/timegrid/)
 
-PoC (current state) -> MVP -> Production (ready to be used)
+PoC | Prototype (current state) -> MVP -> Production (ready to be used)
 
 Features and functionalities:
 
-- POS: point of sale
-- CRM: customer relations management
+- point of sale (POS)
+- customer relations management (CRM)
 - time managements
 - daily tasks and money records, show year, show month, show week, show day.
 - docs/notes/brainstorming
@@ -108,7 +108,10 @@ Supported Platforms:
 - iPad (OS)
 - Windows
 - macOS
-- Linux {snapcraft, flatpak, appimage}
+- Linux
+  - snapcraft
+  - flatpak
+  - appimage
 
 ### Value In Brief
 
