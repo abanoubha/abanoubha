@@ -22,6 +22,8 @@ For my __developer experience__, I tend to use _fewer dependencies_, I prefer _l
 
 I am in the __top GitHub users__ by __total contributions__, & by __public contributions__ in __Egypt__ according to [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/egypt.md) and [committers.top](https://committers.top/egypt_private).
 
+[![committers.top badge](https://user-badge.committers.top/egypt_private/abanoubha.svg)](https://user-badge.committers.top/egypt_private/abanoubha)
+
 ## Software I Created
 
 ### Digital Business Card
