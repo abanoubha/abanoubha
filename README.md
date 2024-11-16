@@ -152,11 +152,6 @@ Supported Platforms:
 
 - I discontinued [the project](https://github.com/abanoubha/bible). Use [this bible app](https://play.google.com/store/apps/details?id=net.alketabalmokadas.app) instead.
 
-### OCR
-
-- extract text from images and/or PDF files. It is [open source](https://github.com/abanoubha/ocr), so you can contribute.
-- __tech stack__ : [Go](https://github.com/golang/go) language, [Gio](https://github.com/gioui/gio) UI (rethinking about it ?!), Tesseract via gotesseract
-
 ### Coptic OCR
 
 - [tesseract-ocr](https://tesseract-ocr.github.io/tessdoc/Data-Files.html) do not include Coptic in their models, so I am trying to support it. It is [open source & shared on GitHub](https://github.com/abanoubha/coptic-ocr.git).
