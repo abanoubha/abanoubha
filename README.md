@@ -31,9 +31,9 @@ I am in the __top GitHub users__ by __total contributions__, & by __public contr
 - [a virtual wallet of digital business cards](https://kartbusiness.com)
   - Laravel
   - Tailwind CSS
-  - API for mobile apps
-  - Android App (Flutter)(~~Kotlin + Jetpack Compose~~ )
-  - iOS App (SwiftUI)
+  - API for mobile apps (~~Laravel~~) -> (Go)
+  - Android App (~~Kotlin + Jetpack Compose~~) -> (~~Flutter~~) -> (Kotlin + Jetpack Compose)
+  - iOS App (~~Flutter~~) -> (SwiftUI)
 - [Install the app on your mobile](https://kartbusiness.com/app) from [Google Play](https://play.google.com/store/apps/details?id=com.kartbusiness.app).
 
 ## Kmt : Hugo Theme
