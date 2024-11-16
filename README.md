@@ -119,14 +119,6 @@ Supported Platforms:
   - flatpak
   - appimage
 
-### Value In Brief
-
-- This tech blog is **discontinued**, and all content is moved into [my bilingual tech blog here](https://abanoubhanna.com/).
-- Tech Stack:
-  - Hugo the popular static site generator (SSG)
-  - Content as Markdown `.md` files
-  - [Kmt Hugo theme](https://github.com/abanoubha/gohugo-theme-kmt)
-
 ### Pope Shenouda books
 
 - Android app to read the books written by Pope Shenouda III. __Application features and advantages__: You can use touch gestures to turn/flip the pages of the book (Touch Gestures) • go to the last page you read in the last reading session • very little storage/space usage (~5MB).
