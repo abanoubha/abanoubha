@@ -148,10 +148,6 @@ Supported Platforms:
 - [Install Agpeya app from Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya) (uptodate)
   - or [AppGallery](https://appgallery.cloud.huawei.com/ag/n/app/C105039643?channelId=agpeya&id=8c4974399ed54f9c820e5b5a6fbce4a8&s=2F8958B2459A92B4D6694B856BE386F8C719CCBBB64C2F2AD638E53CAA3C9E98&detailType=0&v=&callType=AGDLINK&installType=0000) (old version).
 
-### Bible - الكتاب المقدس
-
-- I discontinued [the project](https://github.com/abanoubha/bible). Use [this bible app](https://play.google.com/store/apps/details?id=net.alketabalmokadas.app) instead.
-
 ### cleanText
 
 - an [open source](https://github.com/abanoubha/cleanText) tool to normalize text (convert special chars to normal chars such as `àáâ` into `aaa`)
