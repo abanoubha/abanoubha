@@ -156,10 +156,6 @@ Supported Platforms:
 
 - [tesseract-ocr](https://tesseract-ocr.github.io/tessdoc/Data-Files.html) do not include Coptic in their models, so I am trying to support it. It is [open source & shared on GitHub](https://github.com/abanoubha/coptic-ocr.git).
 
-### speech to text (live transcribe)
-
-- I cancelled the project. use [Live Transcribe from Google](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe) instead.
-
 ### cleanText
 
 - an [open source](https://github.com/abanoubha/cleanText) tool to normalize text (convert special chars to normal chars such as `àáâ` into `aaa`)
