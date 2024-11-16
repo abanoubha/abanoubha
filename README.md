@@ -191,35 +191,14 @@ Local search engine for offline docs. [docseng](https://github.com/abanoubha/doc
 
 ## Software of choice | Tech Stack of choice
 
-- __OS__ :
-  - Ubuntu Linux
-  - Mac OS X
-- __Web browser__ :
-  - Google Chrome
-  - Mozilla Firefox
-  - Apple Safari
-- __to create a custom website/web app__ :
-  - Larave
-  - PostgreSQL
-  - Tailwind CSS
-- __to create large-scale web app__ :
-  - Go
-  - HTMX
-  - Tailwind CSS
-  - Go Templ
-  - db (if it is data-storage type of project, I use PostgreSQL or MariaDB. Else, I use SQLite).
-- __to create backend API__ :
-  - Go
-  - Laravel.
-- __to create an Android app__ :
-  - if the app needs a native functionality/feature, I tend to use ( Kotlin + Jetpack Compose + SQLite ), else I tend to use Flutter.
-- __to create an iOS app__ :
-  - Flutter
-- __to create cross-platform app__ :
-  - Flutter
-- __to create a blog__ :
-  - Hugo
-  - WordPress.
+- __OS__ : Ubuntu Linux, and Mac OS X
+- __Web browser__ : Google Chrome, Mozilla Firefox, and Apple Safari
+- __to create a custom website/web app__ : Laravel + PostgreSQL db + Tailwind CSS
+- __to create large-scale web app__ : Go + HTMX + Tailwind CSS + Go Templ + PostgreSQL db
+- __to create backend API__ : Go std, or Laravel
+- __to create an Android app__ : Kotlin + Jetpack Compose + SQLite db (as it is local)
+- __to create an iOS app__ : Swift + SwiftUI
+- __to create a blog__ : Hugo, or WordPress, or my new thing (work-in-progress alternative)
 - __source code editors & IDEs__ :
   - Android Studio
   - vim: [.vimrc : my simple config](https://gist.github.com/abanoubha/3ace670cf05b931368557e55872a0df2)
