@@ -31,9 +31,9 @@ I am in the __top GitHub users__ by __total contributions__, & by __public contr
 - [a virtual wallet of digital business cards](https://kartbusiness.com)
   - Laravel
   - Tailwind CSS
-  - API for mobile apps (~~Laravel~~) -> (Go)
-  - Android App (~~Kotlin + Jetpack Compose~~) -> (~~Flutter~~) -> (Kotlin + Jetpack Compose)
-  - iOS App (~~Flutter~~) -> (SwiftUI)
+  - API for mobile apps (Laravel + Go)
+  - Android App (~~Kotlin + Jetpack Compose~~) -> (Flutter)
+  - iOS App (planned)
 - [Install the app on your mobile](https://kartbusiness.com/app) from [Google Play](https://play.google.com/store/apps/details?id=com.kartbusiness.app).
 
 ## Kmt : Hugo Theme
@@ -91,39 +91,10 @@ I am in the __top GitHub users__ by __total contributions__, & by __public contr
   - [Huawei AppGallery](https://appgallery.huawei.com/#/app/C102909069)
     - Old version. Just download the latest version of img2txt OCR app from [GitHub](https://github.com/abanoubha/img2txt_app/releases/) if your smartphone does not support Google Play.
 
-### TimeGrid
-
-PoC | Prototype (current state) -> MVP -> Production (ready to be used)
-
-Read [TimeGrid roadmap](https://abanoubhanna.com/posts/timegrid/) for more detailed information.
-
-Features and functionalities:
-
-- point of sale (POS)
-- customer relations management (CRM)
-- time managements
-- daily tasks and money records, show year, show month, show week, show day.
-- docs/notes/brainstorming
-- timers (such as pomodoro)
-
-Supported Platforms:
-
-- Android phones
-- Android Tablets
-- iPhone (iOS)
-- iPad (OS)
-- Windows
-- macOS
-- Linux
-  - snapcraft
-  - flatpak
-  - appimage
-
 ### Pope Shenouda books
 
 - Android app to read the books written by Pope Shenouda III. __Application features and advantages__: You can use touch gestures to turn/flip the pages of the book (Touch Gestures) • go to the last page you read in the last reading session • very little storage/space usage (~5MB).
-- The application contains these books - so far -: The book of the launch of the soul • The Book of Life of Repentance and Purity • The Book of Calm • The Book of Spiritual Wars • A book of life experiences • The Book of the Creed • The Spirituality of Fasting book • The book Why the Resurrection? • Benefit word book • The Book of Ayoub Al-Siddiq, and why was his experience? • The Book of the Pascha Praise: You have the power and the glory • The Book of Priesthood • The Divinity of Christ • The Book of the Law of Monogamy in Christianity and Our Most Important Principles in Personal Status • The Book of Spirits between Religion and Spiritual Scientists • The Book of Returning to God • The Happy Spiritual Family Book.
-- __Tech Stack__ : Java, SQLite (read about the change from plain text files >> to >> sqlite db here)
+- __Tech Stack__ : Java, SQLite ([read about the change from plain text files >> to >> sqlite db here](https://abanoubhanna.com/posts/text-files-vs-sqlite-android/))
 - install the app from Google play [(Pope Shenouda books)](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks)
 
 ### Abanoub Hanna | Bilingual Tech Blog
@@ -152,40 +123,14 @@ Supported Platforms:
 
 - *i* is an abstraction over all package managers. [The *i* project](https://github.com/abanoubha/i) is open source (OSS), written in Go language.
 
-### docseng (a.k.a docse)
-
-Local search engine for offline docs. [docseng](https://github.com/abanoubha/docseng) is short for (doc)umentation (se)arch (eng)ine.
-
-### OCR SaaS
-
-- supported languages
-  - [ ] English
-  - [ ] Arabic
-  - [ ] Farsi (Persian)
-  - [ ] Hindi (Indian)
-- supported file formats
-  - [ ] JPG / JPEG
-  - [ ] PNG
-  - [ ] PDF (monopage, multipage)
-  - [ ] WEBP
-  - [ ] HEIC
-  - [ ] AVIF
-- supported sources
-  - [ ] file upload
-  - [ ] web url
-- [ ] color coded accuracy
-- [ ] tasks queue with priority
-- [ ] dedicated page to show status of all functionalities/features accuracy/status
-
 ## Software of choice | Tech Stack of choice
 
-- __OS__ : Ubuntu Linux, and Mac OS X
+- __OS__ : Ubuntu Linux, Mac OS X, and Windows 10/11
 - __Web browser__ : Google Chrome, Mozilla Firefox, and Apple Safari
 - __to create a custom website/web app__ : Laravel + PostgreSQL db + Tailwind CSS
-- __to create large-scale web app__ : Go + HTMX + Tailwind CSS + Go Templ + PostgreSQL db
+- __to create large-scale web app__ : Go + HTMX + Tailwind CSS + ~~Go Templ~~ + PostgreSQL db
 - __to create backend API__ : Go std, or Laravel
-- __to create an Android app__ : Kotlin + Jetpack Compose + SQLite db (as it is local)
-- __to create an iOS app__ : Swift + SwiftUI
+- __to create an Android app__ : ~~Kotlin + Jetpack Compose~~ Flutter + SQLite db (as it is local)
 - __to create a blog__ : Hugo, or WordPress, or my new thing (work-in-progress alternative)
 - __source code editors & IDEs__ :
   - Android Studio
@@ -196,4 +141,3 @@ Local search engine for offline docs. [docseng](https://github.com/abanoubha/doc
 - [history] created Android apps in Java. for example, [Agpeya Android app](https://github.com/abanoubha/agpeya).
 - [history] created a web app in native PHP (Plain PHP + HTML + CSS + JS)
 - [history] developed a WordPress Theme
-
