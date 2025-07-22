@@ -81,3 +81,12 @@ For my __developer experience__, I tend to use _fewer dependencies_, I prefer _l
 - [history] created Android apps in Java. for example, [Agpeya Android app](https://github.com/abanoubha/agpeya).
 - [history] created a web app in native PHP (Plain PHP + HTML + CSS + JS)
 - [history] developed a WordPress Theme
+
+## My Top Used Languages
+
+According to [polyglot](https://github.com/filhodanuvem/polyglot), my top 5 languages I use are:
+- Go `{Lang:Go Counter:51}`
+- Java `{Lang:Java Counter:35}`
+- Kotlin `{Lang:Kotlin Counter:12}`
+- PHP `{Lang:PHP Counter:8}`
+
