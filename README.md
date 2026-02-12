@@ -85,8 +85,12 @@ For my __developer experience__, I tend to use _fewer dependencies_, I prefer _l
 ## My Top Used Languages
 
 According to [polyglot](https://github.com/filhodanuvem/polyglot), my top 5 languages I use are:
-- Go `{Lang:Go Counter:51}`
-- Java `{Lang:Java Counter:35}`
-- Kotlin `{Lang:Kotlin Counter:12}`
-- PHP `{Lang:PHP Counter:8}`
+
+| language | counter |
+| :---     | :---    |
+| Go       | 60      |
+| Java     | 17      |
+| Kotlin   | 12      |
+| Shell    | 8       |
+| PHP      | 8       |
 
