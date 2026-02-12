@@ -8,7 +8,7 @@
 &nbsp; • &nbsp;
 [Telegram](https://t.me/abanoubchan)
 &nbsp; • &nbsp;
-[Facebook](https://www.facebook.com/AbanoubHannaDotCom)
+[Facebook](https://www.facebook.com/SWEAbanoubHanna)
 &nbsp; • &nbsp;
 [CV • Résumé • Portfolio](https://abanoubhanna.com/posts/me)
 
