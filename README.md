@@ -63,6 +63,10 @@ For my __developer experience__, I tend to use _fewer dependencies_, I prefer _l
 
 [gobrew](https://github.com/abanoubha/gobrew) is a CLI app written in Go to show count of all programs written in X language or Y build system in Homebrew Core formulae. It is open source and available on GitHub.
 
+### GoUp
+
+[GoUp](https://github.com/abanoubha/GoUp) is a script to install/upgrade Go compiler on any Linux distributions.
+
 ## Software of choice | Tech Stack of choice
 
 - __OS__ : Ubuntu Linux, Mac OS X, and Windows 10/11
